@@ -1,1 +1,30 @@
 site_name: Achterhoek-RP Wetboek
+site_url: http://wetboek.achterhoek-rp.nl
+site_author: 'Achterhoek-RP'
+
+theme:
+  name: material
+  language: nl
+  logo: img/achterhoek-logo.png
+  favicon: img/achterhoek-logo.png
+  palette:
+    primary: deep orange
+
+plugins:
+  - search:
+      lang: nl
+  - git-revision-date-localized:
+      type: timeago
+      time_zone: Europe/Amsterdam
+      locale: nl
+      fallback_to_build_date: false
+
+nav:
+  - Home: index.md
+
+extra:
+  social:
+    - icon: fontawesome/brands/discord
+      link: https://discord.gg/zGc3aXu
+    - icon: fontawesome/brands/instagram
+      link: https://www.instagram.com/achterhoekrp/
