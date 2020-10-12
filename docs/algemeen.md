@@ -18,6 +18,202 @@ Hieronder vind je alle algemene regels waar elke speler zich aan dient te houden
 3. Indien de desbetreffende speler het niet eens is met de sanctie, dient dit achteraf via een ticket te worden opgelost.
 4. De sancties die in het verleden zijn gegeven, kunnen gevolgen hebben voor bij de sanctie van een nieuw conflict.
 
-## Strafbaren feiten: Roleplay
-### Artikel 2: Cheaten / Hacken
-1. Gebruik maken van externe hulpmiddelen om voordeel 
+## Strafbare feiten: Verstorende activiteiten binnen de Roleplay
+### Artikel 3: Cheaten / Hacken
+1. Gebruik maken van externe hulpmiddelen om voordeel te krijgen op andere spelers is verboden.
+2. Voorbeelden hiervan zijn mod menu's, crossair of andere injectie's.
+3. Het gebruik maken hiervan zal bestraft worden met een permanente verbanning.
+
+### Artikel 4: Exploits / Bug abuse
+1. Wanneer jij een bug of exploit vindt, is het verplicht deze te melden in [#🚫bugs-report](https://discord.gg/2qQeYke).
+2. Het misbruiken van een bug of exploit is ten strengste verboden, en zal ook zwaar gestraft worden.
+
+### Artikel 5: FailRP
+1. Wanneer er onrealistische zaken worden gebruikt binnen de RP, valt dit onder FailRP
+2. Een aantal voorbeelden hiervan zijn:
+    - Vrienden of kennissen gijzelen bij een overval
+    - Stelen van overheidsvoertuigen
+    - Copbaiting
+    - Off-road rijden
+    - Combatloggen
+    - Wegrijden / weglopen na een autocrash
+3. Wij gaan er vanuit dat de speler snapt wanneer iets onrealistisch is. Het staff-lid zal de uiteindelijke conclusie trekken.
+4. De situatie zal bepalen welke straffen hiervoor getroffen zullen worden.
+
+### Artikel 6: Meta Gaming
+1. Alle informatie die buiten de roleplay wordt verkregen, mag niet gebruikt worden binnen de roleplay.
+2. Het bovenstaande valt onder meta gaming.
+3. Indien je gebruik maakt van een portofoon systeem, dien je ingame hoorbaar te zijn.
+4. Meta gaming zal worden bestraft met een verbanning. Indien er locaties zijn doorgegeven, zullen deze worden verplaatst.
+
+### Artikel 7: Rijgedrag
+1. Als burger ben je uiterst voorzichtig met je voertuig en wordt er geacht een realistisch rijgedrag aan te houden.
+2. Wanneer je van de verharde weg afgaat, betekent dit dus dat je moet nadenken of je voertuig dit wel aan kan.
+3. Dit betekent dus niet dat je met een sport wagen 100km/h over een zandweg rijdt.
+4. Indien hier niet aan gehouden wordt, zal dit resulteren in een waarschuwing.
+
+### Artikel 8: Breaking Character
+1. Binnen voicechat, portofoon, Twitter of Instagram is het verplicht om binnen je karakter te blijven.
+2. Bovenstaande, mits de situatie een staff-zaak is geworden en er een staff-lid bij je staat.
+3. Indien hier niet aan gehouden wordt, zal dit resulteren in een waarschuwing.
+
+### Artikel 9: Combatloggen
+1. Het is verboden om de stad te verlaten wanneer je in een roleplay situatie zit.
+2. Dit kan zijn tijdens een gijzeling, achtervolging of wanneer je verwond of dood bent.
+3. Indien je verplicht de stad moet verlaten, dient dit duidelijk gemeldt te worden via /ooc.
+4. Combatloggen zal bestraft worden met een verbanning.
+
+### Artikel 10: Cop baiting
+1. Het uitlokken van overheidsdiensten is niet toegestaan.
+2. Voorbeelden hiervan zijn:
+    - Met hoge snelheid langs een Politie voertuig rijden
+    - Burnouts trekken
+    - Race gedrag vertonen (Hoge toeren draaien etc.)
+3. Bovenstaande geldt alleen wanneer je in de nabijheid van een overheidsvoertuig bent.
+4. Cop baiting zal bestraft worden met een waarschuwing.
+
+### Artikel 11: Powergaming
+1. Het gebruik maken van powergaming is niet toegestaan.
+2. Powergaming is gebruik maken van onrealistische of fictieve zaken waardoor de tegenpartij gedwongen is om bepaalde dingen te doen.
+3. Voorbeelden hiervan zijn:
+    - /me trekt de sleutels uit het contactslot
+    - /me slaat de persoon knockout
+4. Powergaming zal dan ook bestraft worden met een verbanning
+
+### Artikel 12: Stemherkenning / Voicechanger
+1. Het gebruik van voicechangers is niet toegestaan.
+2. Stemherkenning is niet toegestaan wanneer de speler qua uiterlijk onherkenbaar is.
+3. Dit zal dan ook bestraft worden met een waarschuwing of verbanning.
+
+### Artikel 13: Value Your Life
+1. Je dient voorzichtig met je leven om te gaan. Je leeft maar 1 keer.
+2. Voorbeelden waarbij het geen Value Your Life is:
+    - Van een gebouw afspringen
+    - Wegrennen / niet meewerken als er wapens op je gericht zijn
+    - Zelfmoord
+3. Dit betekent dus dat als jij in het nadeel bent qua positie / dekking / wapen, jij je moet overgeven.
+4. Indien jij je hier niet aan houdt, zal dit bestraft worden met een verbanning.
+
+### Artikel 14: New Life Rule
+1. Indien je wordt doodverklaart, betekent dus dat je alles uit je vorige leven vergeten bent.
+2. De volgende stappen moeten worden ondernomen bij een doodsverklaring:
+    - Nieuwe naam
+    - Nieuw uiterlijk
+    - Telefoon reset
+3. Indien hier niet aan gehouden wordt, zal dit bestraft worden met een waarschuwing.
+
+### Artikel 15: Karakter creatie
+1. Wanneer jij een karakter aanmaakt, dien je alle standaarden te veranderen.
+2. Het is verboden kleding van overheidsdiensten te dragen.
+3. Je armen mogen niet door je kleding zichtbaar zijn. Dit kun je aanpassen bij 'Armen'
+4. Het is niet toegestaan om maskers als standaard te gebruiken. Een masker dient gekocht te worden in de Masker winkel.
+5. Wanneer je je niet aan deze eisen voldoet, zal een staff-lid je benaderen en vragen het karakter alsnog te veranderen.
+
+### Artikel 16: VoiceChat
+1. Het is verplicht voicechat aan te hebben
+2. Het is verplicht voicechat op push-to-talk te zetten. Dit betekent dat jij een knop in moet drukken om te praten.
+3. Earrapen of schreeuwen is niet toegestaan.
+4. Indien je je hier niet aan houdt, zal dit resulteren tot een kick of verbanning.
+
+## Strafbare feiten: Interactie met spelers
+### Artikel 17: Vehicle Deathmatch (VDM)
+1. Een voertuig gebruiken als wapen is niet toegestaan.
+2. Dit betekent dus dat je een voertuig gebruikt om iemand te vermoorden of verwonden.
+3. Het niet in acht nemen van deze regel zal worden bestraft met een verbanning.
+
+### Artikel 18: Random Deathmatch (RDM)
+1. Het verwonden van mensen, zonder geldig roleplay scenario, is niet toegestaan.
+2. Dit betekent dus dat jij mensen niet zomaar mag neersteken of neerstompen.
+3. Indien hier niet aan gehouden wordt, zal dit resulteren in een verbanning.
+
+### Artikel 19: Schelden, beledigen en discriminatie
+1. Het is verboden om te discrimineren, beledigen of schelden met ziektes.
+2. Indien hier niet aan gehouden wordt, zal dit resulteren in een verbanning.
+
+## Strafbare feiten: Criminele activiteiten
+### Artikel 20: Bounties en eliminaties
+1. Het is toegestaan om via een gang een bounty op iemands hoofd te zetten.
+2. Het desbetreffende doelwit moet echter wel op roleplay wijze vermoord worden.
+3. Wat wel mag:
+    - Lokken naar bepaalde locatie
+    - Ontvoeren
+4. Wat niet mag:
+    - Zomaar op straat neersteken of neerschieten
+5. Er moet dus goede roleplay vast zitten aan het elimineren van het doelwit.
+6. Indien hier niet aan gehouden wordt, hoeft het doelwit geen doodsverklaring af te leggen, wordt de bounty van zijn hoofd gehaald en krijgt de aanvaller de sancties voor FailRP.
+
+### Artikel 21: Gijzelen en vermoorden
+1. Spelers ontvoeren en/of gijzelen mag vanaf 2 agenten en 1 ambulancier
+2. Spelers vermoorden mag vanaf 3 agenten en 2 ambulanciers (Hier moet wel roleplay aan te pas komen, zie Artikel 20)
+3. Overheidsdiensten ontvoeren en/of gijzelen mag vanaf 5 agenten en 1 ambulancier
+4. Hulpdiensten vermoorden mag vanaf 5 agenten en 2 ambulanciers (Hier moet wel roleplay aan te pas komen, zie Artikel 20)
+5. Indien hier niet aan gehouden wordt, hoeft het doelwit geen doodsverklaring af te leggen, wordt de gijzelaar vrijgelaten en krijgt de aanvaller de sancties voor FailRP.
+
+### Artikel 22: Overvallen
+1. Wanneer je een overval start, dien je in bezit te zijn van een wapen.
+2. Het is toegestaan om een gijzelaar te gebruiken. Zie Artikel 21 voor de regels daarover.
+3. Voor een winkeloverval moeten er minimaal 3 agenten en 1 ambulancier zijn.
+4. Voor een bankoverval moeten er minimaal 5 agenten en 2 ambulanciers zijn.
+
+### Artikel 23: Doodsverklaringen
+1. Een doodsverklaring is alleen toegestaan indien er is voldaan aan bovenstaande artikelen.
+
+### Artikel 24: Overvallen van burgers / Oplichterijen
+1. Het is in alle manieren verboden om spelers op te lichten.
+2. Overvallen van burgers is toegestaan, echter is het niet toegestaan om spelers geforceerd te laten pinnen.
+3. Indien de burger volledige meewerking geeft, moet deze verplicht vrijgelaten worden.
+
+### Artikel 25: Criminaliteit & Overheidsdiensten
+1. Het is verboden om als overheidsdienst bezig te zijn met illegale zaken.
+2. Onder illegale zaken zien wij:
+    - Overvallen
+    - Witwassen
+    - Drugs
+    - Inbraken
+    - Wapens dealing
+    - Eliminaties
+3. Indien dit wel gebeurd, zal de desbetreffende persoon op staande voet worden ontslagen en kan er, afhangend van de situatie, een verbanning op gelegd worden.
+4. Een agent uit dienst mag geen politie wapens bij zich dragen. Deze dienen ten alle tijden na een dienst opgeborgen te worden.
+
+### Artikel 26: Criminele organisaties / gangs
+1. Het is mogelijk om een gang te starten.
+2. Wanneer alle regels goed worden nageleefd is er een kans dat jou gang een officiële gang wordt.
+3. Indien lid 2 het geval is, zal de hoge raad de gangleider benaderen voor een overleg.
+
+### Artikel 27: Illegale zaken via Twitter
+1. Het is verboden om op Twitter te praten over illegale zaken.
+2. Illegale activiteiten dienen van mond tot mond te worden gevoerd.
+3. Indien hier niet aan gehouden wordt, kan dit leiden tot een verbanning
+
+## Strafbare feiten: Overige
+### Artikel 28: Bodycams
+1. Overheidsdiensten mogen gebruik maken van bodycams
+2. Burgers mogen filmen met de telefoon
+3. Overheidsvoertuigen zijn uitgerust met 360 graden camera's
+4. Burgervoertuigen kunnen uitgerust zijn met dashcams, die alleen van voren filmen.
+5. Alle bovenstaande mag gebruikt worden als bewijs materiaal voor staff-zaken.
+
+## Alles in het kort
+- Dit is een stad, geen server
+- Ben je AFK? Gebruik dan via het F3 menu een animatie. Bijvoorbeeld het roken van een sigaret of een bakje koffie. Ben je langer dan 5 minuten AFK dan zul je automatisch gekicked worden.
+- Ga je weg? Zeg dan dat je gaat slapen.
+- Gedraag je zoals je in het echte leven ook zou doen.
+- Gebruik /me om te beschrijven wat je karakter doet
+- De luchthaven, gevangenis en de militaire basis mag niet betreden worden. De luchthaven mag alleen betreden worden als je een vergunning hebt.
+- Je bent verplicht je standaard kleding te veranderen wanneer je voor het eerst de stad in komt.
+- Het is niet toegestaan om als burger in overheidskleding rond te lopen.
+- Wil je iets aan iemand uitleggen? Gebruik dan spier i.p.v. toets. Bijvoorbeeld: 'Gebruik de F5-spier om je ID kaart te laten zien'.
+- Je bent verplicht voicechat aan te hebben
+- Als je iemand wilt bereiken gebruik je je mobiele telefoon en vraag je het via Twitter om SMS
+- Wanneer je een staff-lid nodig hebt, maak je gebruik van /report
+- Als je een niet roleplay gerelateerde vraag hebt, stel je deze in de Discord of /ooc
+- Gebruik je telefoon of portofoon voor in-game communicatie
+- Nep meldingen naar overheidsdiensten is niet toegestaan
+- Als je Politie/Ambulance/ANWB belt, kun je via 'Stuur een bericht' een gedetailleerder bericht sturen.
+- Als er een ambulancier is, gebruik je /me om te vertellen wat er aan de hand is
+- De roleplay van de ambulance leidt
+- Het is verplicht ABN te spreken
+- Het is verboden om via alt accounts de stad te betreden
+- Het is niet toegestaan om te streamsnipen
+- VDM/RDM/Copbaiting/Combatloggen is niet toegstaan
+- Achterhoek is een vrouwvriendelijke stad. Heb daarom ook respect voor vrouwen.
