@@ -21,6 +21,8 @@ plugins:
 
 nav:
   - Home: index.md
+  - Algemene regels: algemeen.md
+  - Wetboek: wetboek.md
 
 extra:
   social:
@@ -28,3 +30,5 @@ extra:
       link: https://discord.gg/zGc3aXu
     - icon: fontawesome/brands/instagram
       link: https://www.instagram.com/achterhoekrp/
+    - icon: fontawesome/solid/globe
+      link: https://www.achterhoek-rp.nl
