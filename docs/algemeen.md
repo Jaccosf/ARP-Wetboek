@@ -46,13 +46,13 @@ Hieronder vind je alle algemene regels waar elke speler zich aan dient te houden
 3. Indien je gebruik maakt van een portofoon systeem, dien je ingame hoorbaar te zijn.
 4. Meta gaming zal worden bestraft met een verbanning. Indien er locaties zijn doorgegeven, zullen deze worden verplaatst.
 
-### Artikel 7: Rijgedrag
+### Artikel 7: GTA Style Driving
 1. Als burger ben je uiterst voorzichtig met je voertuig en wordt er geacht een realistisch rijgedrag aan te houden.
 2. Wanneer je van de verharde weg afgaat, betekent dit dus dat je moet nadenken of je voertuig dit wel aan kan.
 3. Dit betekent dus niet dat je met een sport wagen 100km/h over een zandweg rijdt.
 4. Indien hier niet aan gehouden wordt, zal dit resulteren in een waarschuwing.
 
-### Artikel 8: Breaking Character
+### Artikel 8: Breaking Character (ooc praten)
 1. Binnen voicechat, portofoon, Twitter of Instagram is het verplicht om binnen je karakter te blijven.
 2. Bovenstaande, mits de situatie een staff-zaak is geworden en er een staff-lid bij je staat.
 3. Indien hier niet aan gehouden wordt, zal dit resulteren in een waarschuwing.
@@ -85,9 +85,9 @@ Hieronder vind je alle algemene regels waar elke speler zich aan dient te houden
 2. Stemherkenning is niet toegestaan wanneer de speler qua uiterlijk onherkenbaar is.
 3. Dit zal dan ook bestraft worden met een waarschuwing of verbanning.
 
-### Artikel 13: Value Your Life
+### Artikel 13: Value Of Life
 1. Je dient voorzichtig met je leven om te gaan. Je leeft maar 1 keer.
-2. Voorbeelden waarbij het geen Value Your Life is:
+2. Voorbeelden waarbij het geen Value Of Life is:
     - Van een gebouw afspringen
     - Wegrennen / niet meewerken als er wapens op je gericht zijn
     - Zelfmoord
@@ -100,14 +100,16 @@ Hieronder vind je alle algemene regels waar elke speler zich aan dient te houden
     - Nieuwe naam
     - Nieuw uiterlijk
     - Telefoon reset
-3. Indien hier niet aan gehouden wordt, zal dit bestraft worden met een waarschuwing.
+3. Indien je overleden bent in een RP situatie, dien je deze niet meer te vervolgen en je weg ergens anders te vervolgen.
+4. Indien hier niet aan gehouden wordt, zal dit bestraft worden met een waarschuwing.
 
 ### Artikel 15: Karakter creatie
-1. Wanneer jij een karakter aanmaakt, dien je alle standaarden te veranderen.
+1. Wanneer jij een karakter aanmaakt, is het verboden om 'blokken kleding' aan te hebben.
 2. Het is verboden kleding van overheidsdiensten te dragen.
 3. Je armen mogen niet door je kleding zichtbaar zijn. Dit kun je aanpassen bij 'Armen'
 4. Het is niet toegestaan om maskers als standaard te gebruiken. Een masker dient gekocht te worden in de Masker winkel.
-5. Wanneer je je niet aan deze eisen voldoet, zal een staff-lid je benaderen en vragen het karakter alsnog te veranderen.
+5. Je dient een normale naam te kiezen: Bekende personen of abnormale namen zoals Bezem Kast zijn niet toegestaan!
+6. Wanneer je je niet aan deze eisen voldoet, zal een staff-lid je benaderen en vragen het karakter alsnog te veranderen.
 
 ### Artikel 16: VoiceChat
 1. Het is verplicht voicechat aan te hebben
@@ -144,8 +146,8 @@ Hieronder vind je alle algemene regels waar elke speler zich aan dient te houden
 
 ### Artikel 21: Gijzelen en vermoorden
 1. Spelers ontvoeren en/of gijzelen mag vanaf 2 agenten en 1 ambulancier
-2. Spelers vermoorden mag vanaf 3 agenten en 2 ambulanciers (Hier moet wel roleplay aan te pas komen, zie Artikel 20)
-3. Overheidsdiensten ontvoeren en/of gijzelen mag vanaf 5 agenten en 1 ambulancier
+2. Spelers vermoorden mag vanaf 3 agenten en 1 ambulancier. (Hier moet wel roleplay aan te pas komen, zie Artikel 20)
+3. Overheidsdiensten ontvoeren en/of gijzelen mag vanaf 3 agenten en 2 ambulancieren. (De gegijzelde is hierin niet inbegrepen; als er één agent gegijzeld wordt dienen er nog 3 anderen te zijn.)
 4. Hulpdiensten vermoorden mag vanaf 5 agenten en 2 ambulanciers (Hier moet wel roleplay aan te pas komen, zie Artikel 20)
 5. Indien hier niet aan gehouden wordt, hoeft het doelwit geen doodsverklaring af te leggen, wordt de gijzelaar vrijgelaten en krijgt de aanvaller de sancties voor FailRP.
 
