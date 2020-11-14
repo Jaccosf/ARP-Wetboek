@@ -35,8 +35,9 @@ Hieronder vind je alle algemene regels waar elke speler zich aan dient te houden
     - Stelen van overheidsvoertuigen
     - Copbaiting
     - Off-road rijden
+    - Het zomaar laten ontploffen van een tankstation of voertuigen.
     - Combatloggen
-    - Wegrijden / weglopen na een autocrash
+    - Wegrijden / weglopen na een autocrash of met lekke banden
 3. Wij gaan er vanuit dat de speler snapt wanneer iets onrealistisch is. Het staff-lid zal de uiteindelijke conclusie trekken.
 4. De situatie zal bepalen welke straffen hiervoor getroffen zullen worden.
 
@@ -50,7 +51,9 @@ Hieronder vind je alle algemene regels waar elke speler zich aan dient te houden
 1. Als burger ben je uiterst voorzichtig met je voertuig en wordt er geacht een realistisch rijgedrag aan te houden.
 2. Wanneer je van de verharde weg afgaat, betekent dit dus dat je moet nadenken of je voertuig dit wel aan kan.
 3. Dit betekent dus niet dat je met een sport wagen 100km/h over een zandweg rijdt.
-4. Indien hier niet aan gehouden wordt, zal dit resulteren in een waarschuwing.
+4. Ten alle tijden geldt dat je niet van de op map aangegeven wegen mag afwijken.
+5. Ook het oprijden van steile zandpaden met een bijvoorbeeld een camper is niet toegestaan.  
+6. Indien hier niet aan gehouden wordt, zullen er sancties getroffen worden.
 
 ### Artikel 8: Breaking Character (ooc praten)
 1. Binnen voicechat, portofoon, Twitter of Instagram is het verplicht om binnen je karakter te blijven.
@@ -91,7 +94,9 @@ Hieronder vind je alle algemene regels waar elke speler zich aan dient te houden
     - Van een gebouw afspringen
     - Wegrennen / niet meewerken als er wapens op je gericht zijn
     - Zelfmoord
+    -Met een voertuig tegen een tankstation aanrijden.
 3. Dit betekent dus dat als jij in het nadeel bent qua positie / dekking / wapen, jij je moet overgeven.
+4. Mocht je diepe geheimen hebben, mag je die behouden tot in het graf.
 4. Indien jij je hier niet aan houdt, zal dit bestraft worden met een verbanning.
 
 ### Artikel 14: New Life Rule
@@ -147,9 +152,10 @@ Hieronder vind je alle algemene regels waar elke speler zich aan dient te houden
 ### Artikel 21: Gijzelen en vermoorden
 1. Spelers ontvoeren en/of gijzelen mag vanaf 2 agenten en 1 ambulancier
 2. Spelers vermoorden mag vanaf 3 agenten en 1 ambulancier. (Hier moet wel roleplay aan te pas komen, zie Artikel 20)
-3. Overheidsdiensten ontvoeren en/of gijzelen mag vanaf 3 agenten en 2 ambulancieren. (De gegijzelde is hierin niet inbegrepen; als er één agent gegijzeld wordt dienen er nog 3 anderen te zijn.)
-4. Hulpdiensten vermoorden mag vanaf 5 agenten en 2 ambulanciers (Hier moet wel roleplay aan te pas komen, zie Artikel 20)
-5. Indien hier niet aan gehouden wordt, hoeft het doelwit geen doodsverklaring af te leggen, wordt de gijzelaar vrijgelaten en krijgt de aanvaller de sancties voor FailRP.
+3. Schieten valt onder de regel hierboven.
+4. Overheidsdiensten ontvoeren en/of gijzelen mag vanaf 3 agenten en 2 ambulancieren. (De gegijzelde is hierin niet inbegrepen; als er één agent gegijzeld wordt dienen er nog 3 anderen te zijn. Dit geldt voor alle hulpdiensten.)
+5. Hulpdiensten vermoorden mag vanaf 5 agenten en 2 ambulanciers (Hier moet wel roleplay aan te pas komen, zie Artikel 20)
+6. Indien hier niet aan gehouden wordt, hoeft het doelwit geen doodsverklaring af te leggen, wordt de gijzelaar vrijgelaten en krijgt de aanvaller de sancties voor FailRP.
 
 ### Artikel 22: Overvallen
 1. Wanneer je een overval start, dien je in bezit te zijn van een wapen.
