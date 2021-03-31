@@ -4,6 +4,6 @@ Welkom op de website waar je alle regels kun vinden van Achterhoek-RP. Aan de li
 
 Mis je iets, of heb je ergens een vraag over? Maak dan een ticket aan in onze Discord.
 
-**Discord:** [discord.gg/zGc3aXu](https://discord.gg/zGc3aXu)
+**Discord:** [Klik hier](https://dsc.gg/achterhoekrp)
 
-**Website:** [achterhoek-rp.nl](https://www.achterhoek-rp.nl)
+**Website:** [Tijdelijk in onderhoud!](https://www.achterhoek-rp.nl)
