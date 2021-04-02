@@ -1,30 +1,36 @@
-# Ingame server regels
+# Ingame wetboek
 
 Hier kunt u de algemene IC (In Charachter) regels van Achterhoek-RP vinden.
 
-## Politie
-### Het dienstwapen
+### Artikel 1: Het dienstwapen
 1. Een agent dient zijn of haar dienstwapens t.a.t. in te leveren, wanneer diegene UIT-dienst gaat.
 2. Het doorspelen van een van de dienstwapens is ten strengste verboden! (Tijdens een gijzeling mag het dienstwapen echter wel worden afgepakt met /me.)
 3. De bovengenoemde regels zullen streng worden gehandhaafd en kunnen resulteren in een harde maatregelen.
 
-### Invallen
+### Artikel 2: Invallen
 1. De politie heeft het recht om een huiszoeking te doen.
 2. De politie heeft het recht om een bedrijf, wat mogelijk corrupt is of fraude pleegt, te doorzoeken. 
 3. De politie heeft het recht om een garage, waar mogelijk illegale spullen inliggen, te doorzoeken. 
 4. Zodra de politie een bevel van de OvD heeft, dient u dus ook met alle bovengenoemden mee te werken.
 
-### Rechten
-1. Iedereen heeft het recht om na een verhoor hoger beroep aan te vragen.
+### Artikel 3: Rechten
+1. Iedereen heeft het recht om na een verhoor hoger beroep aan te vragen. Zie hiervoor het kopje Rechtbank
 2. Politie dient aan iedereen die aangehouden word de rechten voor te lezen, voordat de cel betreden is m.u.v. aanhoudingen in het politiebureau. 
 3. Mocht een van de bovenstaande punten niet nageleefd worden, mag de verdachte niet langer vastgehouden worden.
 
-### Staande- of aanhoudingen
+### Artikel 4: Staande- of aanhoudingen
 1. De politie heeft het recht om personen na een strafbaar feit of bij een verdenking voor een strafbaar feit aan te houden.
-2. De politie heeft het recht om de voertuigen van personen, die het snelheidslimiet met 50 km/u overtreden hebben, in te nemen.
+2. De politie mag ten alle tijden iemand staandehouden.
+3. De politie heeft het recht om de voertuigen van personen, die het snelheidslimiet met 50 km/u overtreden hebben, in te nemen.
 
-### Boetes
-Alle boetes zullen m.u.v. artikels IV, V, VI, VII zullen €9 administratiekosten toeslag krijgen.
+### Artikel 5: Openstaande boetes
+1. Als een persoon meer dan €7.500 aan boetes open heeft staan, kan er bij de strafeis van een ander delict rekening mee gehouden worden en eventuele extra sancties worden opgelegd. 
+2. Het persoon dient ook een optie te krijgen om op het moment zelf een aantal boetes te betalen, zodat dit persoon alsnog onder het maximale openstaande bedrag komt.
+3. Politie heeft het recht om in dit geval de rechtbank of OvJ te vragen om inbeslagname van goederen van het persoon.
+4. Onder bijzondere omstandigheden kan een persoon een aanvraag doen bij de rechtbank voor het doen van een vervangende straf om de boetes af te betalen.
+
+## Delicten
+Alle boetes in artikelen I, II & III zullen €9 administratiekosten extra ontvangen.
 
 #### Artikel I
 - Onnodig claxonneren | €90
