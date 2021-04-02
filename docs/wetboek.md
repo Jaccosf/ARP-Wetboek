@@ -14,9 +14,11 @@ Hier kunt u de algemene IC (In Charachter) regels van Achterhoek-RP vinden.
 4. Zodra de politie een bevel van de OvD heeft, dient u dus ook met alle bovengenoemden mee te werken.
 
 ### Artikel 3: Rechten
-1. Iedereen heeft het recht om na een verhoor hoger beroep aan te vragen. Zie hiervoor het kopje Rechtbank
-2. Politie dient aan iedereen die aangehouden word de rechten voor te lezen, voordat de cel betreden is m.u.v. aanhoudingen in het politiebureau. 
-3. Mocht een van de bovenstaande punten niet nageleefd worden, mag de verdachte niet langer vastgehouden worden.
+1. Iedereen heeft het recht om na een verhoor hoger beroep aan te vragen.
+2. Als een persoon aangehouden wordt, dienen de rechten voorgelezen te zijn voor dat het persoon in de tijdelijke cel zit.
+3. Politie dient aan iedereen die aangehouden word de rechten voor te lezen, voordat de cel betreden is m.u.v. aanhoudingen in het politiebureau. 
+4. Mocht een van de bovenstaande punten niet nageleefd worden, mag de verdachte niet langer vastgehouden worden.
+5. De rechtbank kan ook zelf een onderzoek starten naar een proces volgens het legaliteitsbeginsel.
 
 ### Artikel 4: Staande- of aanhoudingen
 1. De politie heeft het recht om personen na een strafbaar feit of bij een verdenking voor een strafbaar feit aan te houden.
@@ -29,7 +31,19 @@ Hier kunt u de algemene IC (In Charachter) regels van Achterhoek-RP vinden.
 3. Politie heeft het recht om in dit geval de rechtbank of OvJ te vragen om inbeslagname van goederen van het persoon.
 4. Onder bijzondere omstandigheden kan een persoon een aanvraag doen bij de rechtbank voor het doen van een vervangende straf om de boetes af te betalen.
 
-## Delicten
+### Artikel 6: Straffen
+    - Waarschuwing
+    - Geldboete
+    - Rijontzegging
+    - Inbeslagname
+    - Strafblad
+    - Taakstraf
+    - Celstraf 
+1. Als het persoon in bezit is van een strafblad kunnen straffen hoger uitpakken.
+2. De rechtbank kan altijd afwijken van standaard straffen in bijzondere omstandigheden.
+3. Per strafbepaling kan er maximaal 3 keer op dezelfde verkeersovertreding worden bestraft.
+
+### Delicten
 Alle boetes in artikelen I, II & III zullen €9 administratiekosten extra ontvangen.
 
 #### Artikel I
