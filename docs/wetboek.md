@@ -19,6 +19,9 @@ Hier kunt u de algemene IC (In Charachter) regels van Achterhoek-RP vinden.
 3. Politie dient aan iedereen die aangehouden word de rechten voor te lezen, voordat de cel betreden is m.u.v. aanhoudingen in het politiebureau. 
 4. Mocht een van de bovenstaande punten niet nageleefd worden, mag de verdachte niet langer vastgehouden worden.
 5. De rechtbank kan ook zelf een onderzoek starten naar een proces volgens het legaliteitsbeginsel.
+6. De verdachte is altijd onschuldig totdat het tegendeel bewezen is.
+7. De verdachte zelf of de vertegenwoordigende raadsman moet altijd de mogelijkheid krijgen om de verdachtes mening te laten horen.
+8. Iemand kan niet twee keer worden veroordeeld voor hetzelfde delict
 
 ### Artikel 4: Staande- of aanhoudingen
 1. De politie heeft het recht om personen na een strafbaar feit of bij een verdenking voor een strafbaar feit aan te houden.
@@ -46,6 +49,7 @@ Hier kunt u de algemene IC (In Charachter) regels van Achterhoek-RP vinden.
 ### Delicten
 Alle boetes in artikelen I, II & III zullen €9 administratiekosten extra ontvangen.
 
+** ONOFFICIEEL: EXTRA STRAFFEN MOETEN NOG WORDEN TOEGEVOEGD! **
 #### Artikel I
 - Onnodig claxonneren | €90
 
