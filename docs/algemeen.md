@@ -82,7 +82,8 @@ Hieronder vind je alle algemene regels waar elke speler zich aan dient te houden
 3. Voorbeelden hiervan zijn:
     - /me trekt de sleutels uit het contactslot
     - /me slaat de persoon knockout
-4. Powergaming zal dan ook flink bestraft worden met een sanctie uit artikel 2
+4. Als iemand vermoord is, dient die persoon dus ook aan de RP mee te werken en is er geen powergaming bij nodig.
+5. Powergaming zal dan ook flink bestraft worden met een sanctie uit artikel 2
 
 ### Artikel 12: Stemherkenning / Voicechanger
 1. Het gebruik van voicechangers is niet toegestaan.
@@ -121,6 +122,7 @@ Hieronder vind je alle algemene regels waar elke speler zich aan dient te houden
 1. Het is verplicht voicechat aan te hebben
 2. Het is verplicht voicechat op push-to-talk te zetten. Dit betekent dat jij een knop in moet drukken om te praten.
 3. Earrapen of schreeuwen is niet toegestaan.
+4. Het gebruik van een soundpad is ook niet toegestaan.
 
 ## Strafbare feiten: Interactie met spelers
 ### Artikel 17: Vehicle Deathmatch (VDM)
@@ -207,6 +209,10 @@ Hieronder vind je alle algemene regels waar elke speler zich aan dient te houden
 3. Overheidsvoertuigen zijn uitgerust met 360 graden camera's
 4. Burgervoertuigen kunnen uitgerust zijn met dashcams, die alleen van voren filmen.
 5. Alle bovenstaande mag gebruikt worden als bewijs materiaal voor staff-zaken.
+
+### Artikel 29: Refunds
+1. Refunds worden alleen gegeven als het persoon zelf met voldoende bewijs komt van de bug of de manier waarop diegene geld is verloren.
+2. Refunds worden pas gegeven bij een schade van €5.000 of hoger.
 
 ## Kort overzicht
 - Dit is een stad, geen server

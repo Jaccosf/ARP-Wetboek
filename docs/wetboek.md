@@ -1,4 +1,4 @@
-# Algemene server regels
+# Ingame server regels
 
 Hier kunt u de algemene IC (In Charachter) regels van Achterhoek-RP vinden.
 
@@ -163,12 +163,12 @@ Alle boetes zullen m.u.v. artikels IV, V, VI, VII zullen €9 administratiekoste
 
 #### N.B.  
 
-* De straffen op vluchtmisdrijf verschillen per situatie en zal dus ook moeten worden bepaald na nader inzien. Meestal als iemand dit pleegt wordt degene ook aangehouden, dan kan je voor het vluchtmisdrijf naar de rechtbank. Is dit niet zo? Dan kan je degene gewoon de boete of taakstraffen geven.  
+    * De straffen op vluchtmisdrijf verschillen per situatie en zal dus ook moeten worden bepaald na nader inzien. Meestal als iemand dit pleegt wordt degene ook aangehouden, dan kan je voor het vluchtmisdrijf naar de rechtbank. Is dit niet zo? Dan kan je degene gewoon de boete of taakstraffen geven.  
 
-** Alle straffen met rijbewijs invorderen, mogen nu nog worden gedaan door de politie. Binnenkort wordt dit door de rechtbank gedaan. Hierover later meer. 
+    ** Alle straffen met rijbewijs invorderen, mogen nu nog worden gedaan door de politie. Binnenkort wordt dit door de rechtbank gedaan. Hierover later meer. 
  
-*** Normaliter mag je een boete maximaal 3x geven per aanhouding, de rechtbank kan hier echter een uitzondering op maken. Als de politie vindt dat er bij een bepaald persoon méér dan drie keer een bepaalde boete gegeven moet worden, dan kan je naar de rechtbank. 
+    *** Normaliter mag je een boete maximaal 3x geven per aanhouding, de rechtbank kan hier echter een uitzondering op maken. Als de politie vindt dat er bij een bepaald persoon méér dan drie keer een bepaalde boete gegeven moet worden, dan kan je naar de rechtbank. 
  
-**** Bij de tweede overtreding van deze soort, komen er 10 maanden celstraf bij per keer. 
+    **** Bij de tweede overtreding van deze soort, komen er 10 maanden celstraf bij per keer. 
 
-***** Deze gebieden zijn: BP, ANWB, Ziekenhuis en Politie HB
+    ***** Deze gebieden zijn: BP, ANWB, Ziekenhuis en Politie HB
