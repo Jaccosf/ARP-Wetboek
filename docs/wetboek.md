@@ -196,3 +196,17 @@ Alle boetes in artikelen I, II & III zullen €9 administratiekosten extra ontva
     **** Bij de tweede overtreding van deze soort, komen er 10 maanden celstraf bij per keer. 
 
     ***** Deze gebieden zijn: BP, ANWB, Ziekenhuis en Politie HB
+
+### Artikel 7: Advocaten
+1. Ieder persoon in Achterhoek heeft recht op een advocaat.
+2. Een officiële advocaat moet in het bezit zijn van een advocatenpas.
+
+### Artikel 8: Rechtbank in het algemeen
+1. De OvJ word geraadpleegd als bij de volgende benodigdheden:
+    - hoger beroep
+    - huiszoekingen
+    - beslagname
+2. Aanklachten van of tegen de staat zullen worden behandeld door het vertegenwoordigd door het OM.
+3. Aanpassingen in het IC wetboek worden altijd overlegd met de rechtbank.
+4. De rechtbank kan besluiten iemand in afwachting van een proces op borgtocht vrij te laten.
+5. Elk persoon in Achterhoek heeft het recht een zaak aan te spannen tegen een ander of de staat.
