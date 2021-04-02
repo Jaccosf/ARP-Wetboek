@@ -28,7 +28,8 @@ Hieronder vind je alle algemene regels waar elke speler zich aan dient te houden
 
 ### Artikel 4: Exploits / Bug abuse
 1. Wanneer jij een bug of exploit vindt, is het verplicht deze te melden in [#🚫bugs](https://dsc.gg/achterhoekrp).
-2. Het misbruiken van een bug of exploit is ten strengste verboden, en zal ook zwaar gestraft worden.
+2. Het omzeilen van een AFK kick is verboden en valt onder bug abuse.
+3. Het misbruiken van een bug of exploit is ten strengste verboden, en zal ook zwaar gestraft worden.
 
 ### Artikel 5: FailRP
 1. Wanneer er onrealistische zaken worden gebruikt binnen de RP, valt dit onder FailRP
@@ -124,6 +125,7 @@ Hieronder vind je alle algemene regels waar elke speler zich aan dient te houden
 1. Het is verplicht voicechat aan te hebben
 2. Het is verplicht voicechat op push-to-talk te zetten. Dit betekent dat jij een knop in moet drukken om te praten.
 3. Earrapen of schreeuwen is niet toegestaan.
+4. Het gebruiken van de Nederlandse taal is verplicht.
 4. Het gebruik van een soundpad is ook niet toegestaan.
 
 ## Strafbare feiten: Interactie met spelers
@@ -150,6 +152,7 @@ Hieronder vind je alle algemene regels waar elke speler zich aan dient te houden
     - Ontvoeren
 4. Wat niet mag:
     - Zomaar op straat neersteken of neerschieten
+    - Schieten uit een voertuig
 5. Er moet dus goede roleplay vast zitten aan het elimineren van het doelwit.
 6. Indien hier niet aan gehouden wordt, hoeft het doelwit geen doodsverklaring af te leggen, wordt de bounty van zijn hoofd gehaald en krijgt de aanvaller de sancties voor FailRP.
 
@@ -197,10 +200,11 @@ Hieronder vind je alle algemene regels waar elke speler zich aan dient te houden
 ### Artikel 26: Criminele organisaties / gangs
 1. Het is mogelijk om een gang te starten.
 2. Wanneer alle regels goed worden nageleefd is er een kans dat jou gang een officiële gang wordt.
-3. Dit bovenstaande kan de gang regelen via een ticket in de discord.
+3. Een onofficiële discord mag alleen gebruikt worden indien er een lid van de gemeente bestuur in de discord word toegelaten en toegang krijgt tot alle kanalen.
+4. Dit bovenstaande kan de gang regelen via een ticket in de discord.
 
-### Artikel 27: Illegale zaken via Twitter
-1. Het is verboden om op Twitter te praten over illegale zaken.
+### Artikel 27: Illegale zaken via Twitter en/of Instagram
+1. Het is verboden om op Twitter en/of Instagram te praten over illegale zaken.
 2. Illegale activiteiten dienen van mond tot mond te worden gevoerd.
 3. Indien hier niet aan gehouden wordt, kan dit leiden tot maatregelen
 
@@ -215,6 +219,11 @@ Hieronder vind je alle algemene regels waar elke speler zich aan dient te houden
 ### Artikel 29: Refunds
 1. Refunds worden alleen gegeven als het persoon zelf met voldoende bewijs komt van de bug of de manier waarop diegene geld is verloren.
 2. Refunds worden pas gegeven bij een schade van €5.000 of hoger.
+
+### Artikel 30: Jobhoppen
+1. Zodra een persoon ontslag heeft genomen bij een officiële gang of whitelisted job dient dit persoon 7 dagen te wachten, totdat hij aangenomen kan worden bij een andere officiële gang of whitelisted job. 
+2. Solliciteren is wel toegestaan binnen de 7 dagen.
+3. Bij overtreding hiervan kunnen er sancties uit artikel 2 volgen en kan de ontslagperiode vernieuwd worden.
 
 ## Kort overzicht
 - Dit is een stad, geen server
