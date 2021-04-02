@@ -18,6 +18,7 @@ Hieronder vind je alle algemene regels waar elke speler zich aan dient te houden
 3. Indien de desbetreffende speler het niet eens is met de sanctie, dient dit achteraf via een ticket te worden opgelost.
 4. De sancties die in het verleden zijn gegeven, kunnen gevolgen hebben voor bij de sanctie van een nieuw conflict.
 5. Sancties kunnen per situatie verschillen. Staffleden mogen dan ook van de standaard straffen afwijken indien nodig.
+6. Het niet kennen van de regels is NOOIT een geldige reden om onder een sanctie uit te komen.
 
 ## Strafbare feiten: Verstorende activiteiten binnen de Roleplay
 ### Artikel 3: Cheaten / Hacken
