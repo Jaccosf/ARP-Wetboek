@@ -40,6 +40,7 @@ Hieronder vind je alle algemene regels waar elke speler zich aan dient te houden
     - Het zomaar laten ontploffen van een tankstation of voertuigen.
     - Combatloggen
     - Wegrijden / weglopen na een autocrash of met lekke banden
+    - Spammen in welke chat dan ook
 3. Wij gaan er vanuit dat de speler snapt wanneer iets onrealistisch is. Het staff-lid zal de uiteindelijke conclusie trekken.
 4. Dit zal dan ook bestraft worden met een sanctie uit artikel 2.
 
@@ -97,7 +98,7 @@ Hieronder vind je alle algemene regels waar elke speler zich aan dient te houden
     - Van een gebouw afspringen
     - Wegrennen / niet meewerken als er wapens op je gericht zijn
     - Zelfmoord
-    -Met een voertuig tegen een tankstation aanrijden.
+    - Met een voertuig tegen een tankstation aanrijden.
 3. Dit betekent dus dat als jij in het nadeel bent qua positie / dekking / wapen, jij je moet overgeven.
 4. Mocht je diepe geheimen hebben, mag je die behouden tot in het graf.
 4. Indien jij je hier niet aan houdt, zal dit bestraft worden met een sanctie uit artikel 2.
