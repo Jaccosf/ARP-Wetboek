@@ -22,8 +22,9 @@ plugins:
 nav:
   - Home: index.md
   - Algemene regels: algemeen.md
-  - Wetboek: wetboek.md
+  - Ingame regels: wetboek.md
   - Streamer regels: streamers.md
+  - Discord regels: discord.md
 
 extra:
   social:
