@@ -18,6 +18,7 @@ Hieronder vind je alle algemene regels waar elke speler zich aan dient te houden
 3. Indien de desbetreffende speler het niet eens is met de sanctie, dient dit achteraf via een ticket te worden opgelost.
 4. De sancties die in het verleden zijn gegeven, kunnen gevolgen hebben voor bij de sanctie van een nieuw conflict.
 5. Sancties kunnen per situatie verschillen. Staffleden mogen dan ook van de standaard straffen afwijken indien nodig.
+6. Het niet kennen van de regels is NOOIT een geldige reden om onder een sanctie uit te komen.
 
 ## Strafbare feiten: Verstorende activiteiten binnen de Roleplay
 ### Artikel 3: Cheaten / Hacken
@@ -27,7 +28,8 @@ Hieronder vind je alle algemene regels waar elke speler zich aan dient te houden
 
 ### Artikel 4: Exploits / Bug abuse
 1. Wanneer jij een bug of exploit vindt, is het verplicht deze te melden in [#🚫bugs](https://dsc.gg/achterhoekrp).
-2. Het misbruiken van een bug of exploit is ten strengste verboden, en zal ook zwaar gestraft worden.
+2. Het omzeilen van een AFK kick is verboden en valt onder bug abuse.
+3. Het misbruiken van een bug of exploit is ten strengste verboden, en zal ook zwaar gestraft worden.
 
 ### Artikel 5: FailRP
 1. Wanneer er onrealistische zaken worden gebruikt binnen de RP, valt dit onder FailRP
@@ -39,6 +41,7 @@ Hieronder vind je alle algemene regels waar elke speler zich aan dient te houden
     - Het zomaar laten ontploffen van een tankstation of voertuigen.
     - Combatloggen
     - Wegrijden / weglopen na een autocrash of met lekke banden
+    - Spammen in welke chat dan ook
 3. Wij gaan er vanuit dat de speler snapt wanneer iets onrealistisch is. Het staff-lid zal de uiteindelijke conclusie trekken.
 4. Dit zal dan ook bestraft worden met een sanctie uit artikel 2.
 
@@ -82,7 +85,8 @@ Hieronder vind je alle algemene regels waar elke speler zich aan dient te houden
 3. Voorbeelden hiervan zijn:
     - /me trekt de sleutels uit het contactslot
     - /me slaat de persoon knockout
-4. Powergaming zal dan ook flink bestraft worden met een sanctie uit artikel 2
+4. Als iemand vermoord is, dient die persoon dus ook aan de RP mee te werken en is er geen powergaming bij nodig.
+5. Powergaming zal dan ook flink bestraft worden met een sanctie uit artikel 2
 
 ### Artikel 12: Stemherkenning / Voicechanger
 1. Het gebruik van voicechangers is niet toegestaan.
@@ -95,7 +99,7 @@ Hieronder vind je alle algemene regels waar elke speler zich aan dient te houden
     - Van een gebouw afspringen
     - Wegrennen / niet meewerken als er wapens op je gericht zijn
     - Zelfmoord
-    -Met een voertuig tegen een tankstation aanrijden.
+    - Met een voertuig tegen een tankstation aanrijden.
 3. Dit betekent dus dat als jij in het nadeel bent qua positie / dekking / wapen, jij je moet overgeven.
 4. Mocht je diepe geheimen hebben, mag je die behouden tot in het graf.
 4. Indien jij je hier niet aan houdt, zal dit bestraft worden met een sanctie uit artikel 2.
@@ -121,6 +125,8 @@ Hieronder vind je alle algemene regels waar elke speler zich aan dient te houden
 1. Het is verplicht voicechat aan te hebben
 2. Het is verplicht voicechat op push-to-talk te zetten. Dit betekent dat jij een knop in moet drukken om te praten.
 3. Earrapen of schreeuwen is niet toegestaan.
+4. Het gebruiken van de Nederlandse taal is verplicht.
+4. Het gebruik van een soundpad is ook niet toegestaan.
 
 ## Strafbare feiten: Interactie met spelers
 ### Artikel 17: Vehicle Deathmatch (VDM)
@@ -146,6 +152,7 @@ Hieronder vind je alle algemene regels waar elke speler zich aan dient te houden
     - Ontvoeren
 4. Wat niet mag:
     - Zomaar op straat neersteken of neerschieten
+    - Schieten uit een voertuig
 5. Er moet dus goede roleplay vast zitten aan het elimineren van het doelwit.
 6. Indien hier niet aan gehouden wordt, hoeft het doelwit geen doodsverklaring af te leggen, wordt de bounty van zijn hoofd gehaald en krijgt de aanvaller de sancties voor FailRP.
 
@@ -170,8 +177,8 @@ Hieronder vind je alle algemene regels waar elke speler zich aan dient te houden
 ### Artikel 24: Overvallen van burgers / Oplichterijen
 1. Het is in alle manieren verboden om spelers op te lichten.
 2. Overvallen van burgers is toegestaan.
-    - Het laten pinnen van mensen mag tot een maximaal bedrag van €5.000.
-    - Contant geld mag volledig meegenomen worden.
+    - Het is niet toegestaan om geld te stelen van het bankaccount van een persoon.
+    - Contant geld mag volledig meegenomen worden. (Let hierbij goed op het verschil tusssen oplichten en overvallen! Je mag dus niet iemand overvallen als je weet dat diegene toevallig net gepind heeft voor een auto.)
     - De communicatie mag worden afgepakt via /me. (Als een burger hieraan niet meewerkt, is diegene ook strafbaar bezig.)
 3. Hulpdiensten overvallen is toegestaan (indien er wordt voldaan aan de bovengenoemde artikelen) met een aantal beperkingen
     - Hulpdiensten producten (bijvoorbeeld medkits) mogen niet worden gestolen.
@@ -190,23 +197,27 @@ Hieronder vind je alle algemene regels waar elke speler zich aan dient te houden
 3. Indien dit wel gebeurd, kan de desbetreffende persoon op staande voet worden ontslagen en kan er, afhangend van de situatie, zullen er ook vanuit staff maatregelen worden genomen.
 4. Een agent uit dienst mag geen dienstwapens bij zich dragen. Deze dienen ten alle tijden na een dienst opgeborgen te worden.
 
-### Artikel 26: Criminele organisaties / gangs
-1. Het is mogelijk om een gang te starten.
-2. Wanneer alle regels goed worden nageleefd is er een kans dat jou gang een officiële gang wordt.
-3. Dit bovenstaande kan de gang regelen via een ticket in de discord.
-
-### Artikel 27: Illegale zaken via Twitter
-1. Het is verboden om op Twitter te praten over illegale zaken.
+### Artikel 26: Illegale zaken via Twitter en/of Instagram
+1. Het is verboden om op Twitter en/of Instagram te praten over illegale zaken.
 2. Illegale activiteiten dienen van mond tot mond te worden gevoerd.
 3. Indien hier niet aan gehouden wordt, kan dit leiden tot maatregelen
 
 ## Strafbare feiten: Overige
-### Artikel 28: Bodycams
+### Artikel 27: Bodycams
 1. Overheidsdiensten mogen gebruik maken van bodycams
 2. Burgers mogen filmen met de telefoon
 3. Overheidsvoertuigen zijn uitgerust met 360 graden camera's
 4. Burgervoertuigen kunnen uitgerust zijn met dashcams, die alleen van voren filmen.
 5. Alle bovenstaande mag gebruikt worden als bewijs materiaal voor staff-zaken.
+
+### Artikel 28: Refunds
+1. Refunds worden alleen gegeven als het persoon zelf met voldoende bewijs komt van de bug of de manier waarop diegene geld is verloren.
+2. Refunds worden pas gegeven bij een schade van €5.000 of hoger.
+
+### Artikel 29: Jobhoppen
+1. Zodra een persoon ontslag heeft genomen bij een officiële gang of whitelisted job dient dit persoon 7 dagen te wachten, totdat hij aangenomen kan worden bij een andere officiële gang of whitelisted job. 
+2. Solliciteren is wel toegestaan binnen de 7 dagen.
+3. Bij overtreding hiervan kunnen er sancties uit artikel 2 volgen en kan de ontslagperiode vernieuwd worden.
 
 ## Kort overzicht
 - Dit is een stad, geen server
