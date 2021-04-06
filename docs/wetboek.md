@@ -27,6 +27,7 @@ Hier kunt u de algemene IC (In Charachter) regels van Achterhoek-RP vinden.
 1. De politie heeft het recht om personen na een strafbaar feit of bij een verdenking voor een strafbaar feit aan te houden.
 2. De politie mag ten alle tijden iemand staandehouden.
 3. De politie heeft het recht om de voertuigen van personen, die het snelheidslimiet met 50 km/u overtreden hebben, in te nemen.
+4. De politie mag t.a.t. aan een persoon bevelen gezichtsbedekkende kleding af te doen.
 
 ### Artikel 5: Openstaande boetes
 1. Als een persoon meer dan €7.500 aan boetes open heeft staan, kan er bij de strafeis van een ander delict rekening mee gehouden worden en eventuele extra sancties worden opgelegd. 
