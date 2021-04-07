@@ -96,6 +96,8 @@ Alle boetes in artikelen I, II & III zullen €9 administratiekosten extra ontva
 
 - Rijden zonder verlichting | €140
 
+- Rijden zonder helm | €95
+
 #### Artikel II
 - Verkeer hinderen | €140
 
@@ -139,10 +141,12 @@ Alle boetes in artikelen I, II & III zullen €9 administratiekosten extra ontva
 
 - Moord op ambtenaar in functie | €26666 
 
+- Vandalisme | OvJ
+
 #### Artikel V
 - 50 km/u te hard+ | Rijbewijs invorderen** 
 
-- Voor letsel zie bron 1  
+- Letsel | OvJ
 
 - Deelname/organiseren illegale straatrace | Rijbewijs invorderen** 
 
@@ -182,9 +186,9 @@ Alle boetes in artikelen I, II & III zullen €9 administratiekosten extra ontva
 
 - Schieten op burger | 10 maanden celstraf 
 
-- Drugs bezit | n.n.b.
+- Drugs bezit | OvJ
 
-- Drugs verkoop | n.n.b.
+- Drugs verkoop | OvJ
 
 #### N.B.  
 
