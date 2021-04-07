@@ -8,7 +8,23 @@ theme:
   logo: img/achterhoek-logo.png
   favicon: img/achterhoek-logo.png
   palette:
-    primary: deep orange
+       # Light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: deep orange
+      accent: deep orange
+      toggle:
+        icon: material/weather-sunny
+        name: Donkere modus
+
+    # Dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: deep orange
+      accent: deep orange
+      toggle:
+        icon: material/weather-night
+        name: Lichte modus
 
 
 copyright: © Achterhoek-RP 2021
