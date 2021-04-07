@@ -8,7 +8,7 @@ theme:
   logo: img/achterhoek-logo.png
   favicon: img/achterhoek-logo.png
   palette:
-       # Light mode
+      # Light mode
     - media: "(prefers-color-scheme: light)"
       scheme: default
       primary: deep orange
@@ -17,7 +17,7 @@ theme:
         icon: material/weather-sunny
         name: Donkere modus
 
-    # Dark mode
+      # Dark mode
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
       primary: deep orange
