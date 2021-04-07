@@ -130,7 +130,7 @@ Hieronder vind je alle algemene regels waar elke speler zich aan dient te houden
 ## Strafbare feiten: Interactie met spelers
 ### Artikel 17: Vehicle Deathmatch (VDM)
 1. Een voertuig gebruiken als wapen is niet toegestaan.
-2. Dit betekent dus dat je een voertuig gebruikt om iemand te vermoorden of verwonden.
+2. Dit betekent dus dat je een voertuig gebruikt om iemand te vermoorden.
 3. Het niet in acht nemen van deze regel zal worden bestraft met een sanctie uit artikel 2.
 
 ### Artikel 18: Random Deathmatch (RDM)
