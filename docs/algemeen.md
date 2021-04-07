@@ -60,7 +60,7 @@ Hieronder vind je alle algemene regels waar elke speler zich aan dient te houden
 
 ### Artikel 8: Breaking Character (ooc praten)
 1. Binnen voicechat, portofoon, Twitter of Instagram is het verplicht om binnen je karakter te blijven.
-2. Bovenstaande, mits de situatie een staff-zaak is geworden en er een staff-lid bij je staat.
+2. Bovenstaande, mits de situatie een staff-zaak is geworden, doordat een staff-lid jou of mensen binnen dezelfde roleplay aanspreekt.
 3. Indien hier niet aan gehouden wordt, zal dit resulteren in een waarschuwing.
 
 ### Artikel 9: Combatloggen
