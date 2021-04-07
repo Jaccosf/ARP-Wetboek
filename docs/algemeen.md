@@ -223,7 +223,7 @@ Hieronder vind je alle algemene regels waar elke speler zich aan dient te houden
 ### Artikel 30: Offroading
 1. Het betreden van zand- en grindwegen, met een voertuig, die niet op de map zijn aangegeven is alleen toegestaan onder de volgende omstandigheden:
 - Je rijdt onder de 30 km/u
-- Je rijdt in een SUV, buggy of in de cardealer catalogus aangegeven 'offroad-auto' ... en je rijdt onder de 80 km/u
+- Je rijdt in een SUV, buggy of in de cardealer catalogus aangegeven 'offroad-auto' en je rijdt onder de 80 km/u
 
 ## Kort overzicht
 - Dit is een stad, geen server.
