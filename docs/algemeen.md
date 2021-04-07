@@ -117,7 +117,7 @@ Hieronder vind je alle algemene regels waar elke speler zich aan dient te houden
 2. Het is verboden kleding van overheidsdiensten te dragen.
 3. Je armen mogen niet door je kleding zichtbaar zijn. Dit kun je aanpassen bij 'Armen'
 4. Het is niet toegestaan om maskers als standaard te gebruiken. Een masker dient gekocht te worden in de Masker winkel.
-5. Je dient een normale naam te kiezen: Bekende personen of abnormale namen zoals Bezem Kast zijn niet toegestaan!
+5. Je dient een normale naam te kiezen: Bekende personen of abnormale namen zoals 'Bezem Kast' zijn niet toegestaan!
 6. Wanneer je je niet aan deze eisen voldoet, zal een staff-lid je benaderen en vragen het karakter alsnog te veranderen.
 
 ### Artikel 16: VoiceChat
@@ -174,7 +174,7 @@ Hieronder vind je alle algemene regels waar elke speler zich aan dient te houden
 1. Een doodsverklaring is alleen toegestaan indien er is voldaan aan bovenstaande artikelen.
 
 ### Artikel 24: Overvallen van burgers / Oplichterijen
-1. Het is in alle manieren verboden om spelers op te lichten.
+1. Het is in alle manieren verboden om spelers op te lichten. (Probeer dit zoveel mogelijk IC op te lossen.)
 2. Overvallen van burgers is toegestaan.
     - Het is niet toegestaan om geld te stelen van het bankaccount van een persoon.
     - Contant geld mag volledig meegenomen worden. (Let hierbij goed op het verschil tusssen oplichten en overvallen! Je mag dus niet iemand overvallen als je weet dat diegene toevallig net gepind heeft voor een auto.)
@@ -182,6 +182,8 @@ Hieronder vind je alle algemene regels waar elke speler zich aan dient te houden
 3. Hulpdiensten overvallen is toegestaan (indien er wordt voldaan aan de bovengenoemde artikelen) met een aantal beperkingen
     - Hulpdiensten producten (bijvoorbeeld medkits) mogen niet worden gestolen.
     - De communicatie mag worden afgepakt via /me. (Als een hulpdienst hieraan niet meewerkt, is diegene ook strafbaar bezig.)
+4. Het is verboden om startersgeld van spelers af te nemen.
+5. Om afspraken te bevestigen, kan je een contract schrijven (F11). Zodra een contract ondertekend is, dient een persoon zich eraan te houden. Doet diegene dit niet, dan is dit een IC kwestie en kan je naar de politie/rechtbank. Dit is dus niet voor OOC/staff.
 
 ### Artikel 25: Criminaliteit & Overheidsdiensten
 1. Het is verboden om als overheidsdienst bezig te zijn met illegale zaken.
@@ -218,27 +220,32 @@ Hieronder vind je alle algemene regels waar elke speler zich aan dient te houden
 2. Solliciteren is wel toegestaan binnen de 7 dagen.
 3. Bij overtreding hiervan kunnen er sancties uit artikel 2 volgen en kan de ontslagperiode vernieuwd worden.
 
+### Artikel 30: Offroading
+1. Het betreden van zand- en grindwegen, met een voertuig, die niet op de map zijn aangegeven is alleen toegestaan onder de volgende omstandigheden:
+- Je rijdt onder de 30 km/u
+- Je rijdt in een SUV, buggy of in de cardealer catalogus aangegeven 'offroad-auto' ... en je rijdt onder de 80 km/u
+
 ## Kort overzicht
-- Dit is een stad, geen server
+- Dit is een stad, geen server.
 - Ben je AFK? Gebruik dan via het F3 menu een animatie. Bijvoorbeeld het roken van een sigaret of een bakje koffie. Ben je langer dan 5 minuten AFK dan zul je automatisch gekicked worden.
 - Ga je weg? Maak de roleplay even af.
 - Gedraag je zoals je in het echte leven ook zou doen.
-- Gebruik /me om te beschrijven wat je karakter doet
+- Gebruik /me om te beschrijven wat je karakter doet.
 - De luchthaven, gevangenis en de militaire basis mag niet betreden worden. De luchthaven mag alleen betreden worden als je een vergunning hebt.
 - Je bent verplicht je standaard kleding te veranderen wanneer je voor het eerst de stad in komt.
 - Het is niet toegestaan om als burger in overheidskleding rond te lopen.
 - Wil je iets aan iemand uitleggen? Gebruik dan spier i.p.v. toets. Bijvoorbeeld: 'Gebruik de F7-spier om je boetes te betalen'.
-- Je bent verplicht voicechat aan te hebben
+- Je bent verplicht voicechat aan te hebben.
 - Als je iemand wilt bereiken gebruik je je mobiele telefoon en vraag je het via Twitter om SMS
 - Wanneer je een staff-lid nodig hebt, maak je gebruik van /report
 - Als je een niet roleplay gerelateerde vraag hebt, stel je deze in de Discord of /ooc
-- Gebruik je telefoon of portofoon voor in-game communicatie
-- Nep meldingen naar overheidsdiensten is niet toegestaan
+- Gebruik je telefoon of portofoon voor in-game communicatie.
+- Nep meldingen naar overheidsdiensten is niet toegestaan.
 - Als je Politie/Ambulance/ANWB belt, kun je via 'Stuur een bericht' een gedetailleerder bericht sturen.
 - Als er een ambulancier is, gebruik je /me om te vertellen wat er aan de hand is
 - De roleplay van de ambulance is leidend.
-- Het is verplicht ABN te spreken
-- Het is verboden om via alt accounts de stad te betreden
-- Het is niet toegestaan om te streamsnipen
-- VDM/RDM/Copbaiting/Combatloggen is niet toegstaan
+- Het is verplicht ABN te spreken.
+- Het is verboden om via alt accounts de stad te betreden.
+- Het is niet toegestaan om te streamsnipen.
+- VDM/RDM/Copbaiting/Combatloggen is niet toegstaan.
 - Achterhoek is een stad voor iedereen. Heb dus ook respect voor alles en iedereen.
