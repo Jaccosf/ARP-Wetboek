@@ -22,7 +22,6 @@ Hier kunt u de algemene IC (In Charachter) regels van Achterhoek-RP vinden.
 6. De verdachte is altijd onschuldig totdat het tegendeel bewezen is.
 7. De verdachte zelf of de vertegenwoordigende raadsman moet altijd de mogelijkheid krijgen om de verdachtes mening te laten horen.
 8. Iemand kan niet twee keer worden veroordeeld voor hetzelfde delict
-9. Yeet
 
 ### Artikel 4: Staande- of aanhoudingen
 1. De politie heeft het recht om personen na een strafbaar feit of bij een verdenking voor een strafbaar feit aan te houden.
@@ -212,3 +211,5 @@ Alle boetes in artikelen I, II & III zullen €9 administratiekosten extra ontva
 3. Aanpassingen in het IC wetboek worden altijd overlegd met de rechtbank.
 4. De rechtbank kan besluiten iemand in afwachting van een proces op borgtocht vrij te laten.
 5. Elk persoon in Achterhoek heeft het recht een zaak aan te spannen tegen een ander of de staat.
+
+Jacco is dik
