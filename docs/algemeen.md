@@ -182,6 +182,7 @@ Hieronder vind je alle algemene regels waar elke speler zich aan dient te houden
 3. Hulpdiensten overvallen is toegestaan (indien er wordt voldaan aan de bovengenoemde artikelen) met een aantal beperkingen
     - Hulpdiensten producten (bijvoorbeeld medkits) mogen niet worden gestolen.
     - De communicatie mag worden afgepakt via /me. (Als een hulpdienst hieraan niet meewerkt, is diegene ook strafbaar bezig.)
+4. Het is verboden om startersgeld van spelers af te nemen.
 
 ### Artikel 25: Criminaliteit & Overheidsdiensten
 1. Het is verboden om als overheidsdienst bezig te zijn met illegale zaken.
@@ -219,26 +220,26 @@ Hieronder vind je alle algemene regels waar elke speler zich aan dient te houden
 3. Bij overtreding hiervan kunnen er sancties uit artikel 2 volgen en kan de ontslagperiode vernieuwd worden.
 
 ## Kort overzicht
-- Dit is een stad, geen server
+- Dit is een stad, geen server.
 - Ben je AFK? Gebruik dan via het F3 menu een animatie. Bijvoorbeeld het roken van een sigaret of een bakje koffie. Ben je langer dan 5 minuten AFK dan zul je automatisch gekicked worden.
 - Ga je weg? Maak de roleplay even af.
 - Gedraag je zoals je in het echte leven ook zou doen.
-- Gebruik /me om te beschrijven wat je karakter doet
+- Gebruik /me om te beschrijven wat je karakter doet.
 - De luchthaven, gevangenis en de militaire basis mag niet betreden worden. De luchthaven mag alleen betreden worden als je een vergunning hebt.
 - Je bent verplicht je standaard kleding te veranderen wanneer je voor het eerst de stad in komt.
 - Het is niet toegestaan om als burger in overheidskleding rond te lopen.
 - Wil je iets aan iemand uitleggen? Gebruik dan spier i.p.v. toets. Bijvoorbeeld: 'Gebruik de F7-spier om je boetes te betalen'.
-- Je bent verplicht voicechat aan te hebben
+- Je bent verplicht voicechat aan te hebben.
 - Als je iemand wilt bereiken gebruik je je mobiele telefoon en vraag je het via Twitter om SMS
 - Wanneer je een staff-lid nodig hebt, maak je gebruik van /report
 - Als je een niet roleplay gerelateerde vraag hebt, stel je deze in de Discord of /ooc
-- Gebruik je telefoon of portofoon voor in-game communicatie
-- Nep meldingen naar overheidsdiensten is niet toegestaan
+- Gebruik je telefoon of portofoon voor in-game communicatie.
+- Nep meldingen naar overheidsdiensten is niet toegestaan.
 - Als je Politie/Ambulance/ANWB belt, kun je via 'Stuur een bericht' een gedetailleerder bericht sturen.
 - Als er een ambulancier is, gebruik je /me om te vertellen wat er aan de hand is
 - De roleplay van de ambulance is leidend.
-- Het is verplicht ABN te spreken
-- Het is verboden om via alt accounts de stad te betreden
-- Het is niet toegestaan om te streamsnipen
-- VDM/RDM/Copbaiting/Combatloggen is niet toegstaan
+- Het is verplicht ABN te spreken.
+- Het is verboden om via alt accounts de stad te betreden.
+- Het is niet toegestaan om te streamsnipen.
+- VDM/RDM/Copbaiting/Combatloggen is niet toegstaan.
 - Achterhoek is een stad voor iedereen. Heb dus ook respect voor alles en iedereen.
