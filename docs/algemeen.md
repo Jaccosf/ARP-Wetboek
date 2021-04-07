@@ -225,7 +225,7 @@ Hieronder vind je alle algemene regels waar elke speler zich aan dient te houden
 - Je rijdt onder de 30 km/u
 - Je rijdt in een SUV, buggy of in de cardealer catalogus aangegeven 'offroad-auto' en je rijdt onder de 80 km/u
 
-## Kort overzicht
+## Overig & Overzicht
 - Dit is een stad, geen server.
 - Ben je AFK? Gebruik dan via het F3 menu een animatie. Bijvoorbeeld het roken van een sigaret of een bakje koffie. Ben je langer dan 5 minuten AFK dan zul je automatisch gekicked worden.
 - Ga je weg? Maak de roleplay even af.
