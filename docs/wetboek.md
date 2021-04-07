@@ -50,7 +50,6 @@ Hier kunt u de algemene IC (In Charachter) regels van Achterhoek-RP vinden.
 ### Delicten
 Alle boetes in artikelen I, II & III zullen €9 administratiekosten extra ontvangen.
 
-** ONOFFICIEEL: EXTRA STRAFFEN MOETEN NOG WORDEN TOEGEVOEGD! **
 #### Artikel I
 - Onnodig claxonneren | €90
 
