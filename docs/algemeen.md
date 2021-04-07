@@ -117,7 +117,7 @@ Hieronder vind je alle algemene regels waar elke speler zich aan dient te houden
 2. Het is verboden kleding van overheidsdiensten te dragen.
 3. Je armen mogen niet door je kleding zichtbaar zijn. Dit kun je aanpassen bij 'Armen'
 4. Het is niet toegestaan om maskers als standaard te gebruiken. Een masker dient gekocht te worden in de Masker winkel.
-5. Je dient een normale naam te kiezen: Bekende personen of abnormale namen zoals Bezem Kast zijn niet toegestaan!
+5. Je dient een normale naam te kiezen: Bekende personen of abnormale namen zoals 'Bezem Kast' zijn niet toegestaan!
 6. Wanneer je je niet aan deze eisen voldoet, zal een staff-lid je benaderen en vragen het karakter alsnog te veranderen.
 
 ### Artikel 16: VoiceChat
@@ -174,7 +174,7 @@ Hieronder vind je alle algemene regels waar elke speler zich aan dient te houden
 1. Een doodsverklaring is alleen toegestaan indien er is voldaan aan bovenstaande artikelen.
 
 ### Artikel 24: Overvallen van burgers / Oplichterijen
-1. Het is in alle manieren verboden om spelers op te lichten.
+1. Het is in alle manieren verboden om spelers op te lichten. (Probeer dit zoveel mogelijk IC op te lossen.)
 2. Overvallen van burgers is toegestaan.
     - Het is niet toegestaan om geld te stelen van het bankaccount van een persoon.
     - Contant geld mag volledig meegenomen worden. (Let hierbij goed op het verschil tusssen oplichten en overvallen! Je mag dus niet iemand overvallen als je weet dat diegene toevallig net gepind heeft voor een auto.)
@@ -183,6 +183,7 @@ Hieronder vind je alle algemene regels waar elke speler zich aan dient te houden
     - Hulpdiensten producten (bijvoorbeeld medkits) mogen niet worden gestolen.
     - De communicatie mag worden afgepakt via /me. (Als een hulpdienst hieraan niet meewerkt, is diegene ook strafbaar bezig.)
 4. Het is verboden om startersgeld van spelers af te nemen.
+5. Om afspraken te bevestigen, kan je een contract schrijven (F11). Zodra een contract ondertekend is, dient een persoon zich eraan te houden. Doet diegene dit niet, dan is dit een IC kwestie en kan je naar de politie/rechtbank. Dit is dus niet voor OOC/staff.
 
 ### Artikel 25: Criminaliteit & Overheidsdiensten
 1. Het is verboden om als overheidsdienst bezig te zijn met illegale zaken.
@@ -218,6 +219,11 @@ Hieronder vind je alle algemene regels waar elke speler zich aan dient te houden
 1. Zodra een persoon ontslag heeft genomen bij een officiële gang of whitelisted job dient dit persoon 7 dagen te wachten, totdat hij aangenomen kan worden bij een andere officiële gang of whitelisted job. 
 2. Solliciteren is wel toegestaan binnen de 7 dagen.
 3. Bij overtreding hiervan kunnen er sancties uit artikel 2 volgen en kan de ontslagperiode vernieuwd worden.
+
+### Artikel 30: Offroading
+1. Het betreden van zand- en grindwegen, met een voertuig, die niet op de map zijn aangegeven is alleen toegestaan onder de volgende omstandigheden:
+- Je rijdt onder de 30 km/u
+- Je rijdt in een SUV, buggy of in de cardealer catalogus aangegeven 'offroad-auto' ... en je rijdt onder de 80 km/u
 
 ## Kort overzicht
 - Dit is een stad, geen server.
