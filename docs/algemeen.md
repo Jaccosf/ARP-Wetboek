@@ -221,7 +221,7 @@ Hieronder vind je alle algemene regels waar elke speler zich aan dient te houden
 ## Kort overzicht
 - Dit is een stad, geen server
 - Ben je AFK? Gebruik dan via het F3 menu een animatie. Bijvoorbeeld het roken van een sigaret of een bakje koffie. Ben je langer dan 5 minuten AFK dan zul je automatisch gekicked worden.
-- Ga je weg? Zeg dan dat je gaat slapen.
+- Ga je weg? Maak de roleplay even af.
 - Gedraag je zoals je in het echte leven ook zou doen.
 - Gebruik /me om te beschrijven wat je karakter doet
 - De luchthaven, gevangenis en de militaire basis mag niet betreden worden. De luchthaven mag alleen betreden worden als je een vergunning hebt.
