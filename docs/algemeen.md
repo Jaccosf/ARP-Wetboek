@@ -47,9 +47,8 @@ Hieronder vind je alle algemene regels waar elke speler zich aan dient te houden
 
 ### Artikel 6: Meta Gaming
 1. Alle informatie die buiten de roleplay wordt verkregen, mag niet gebruikt worden binnen de roleplay.
-2. Het bovenstaande valt onder meta gaming.
-3. Indien je gebruik maakt van een portofoon systeem, dien je ingame hoorbaar te zijn.
-4. Meta gaming zal worden bestraft een sanctie uit artikel 2. Indien er locaties zijn doorgegeven, zullen deze worden verplaatst.
+2. Indien je gebruik maakt van een portofoon systeem, dien je ingame hoorbaar te zijn.
+3. Meta gaming zal worden bestraft een sanctie uit artikel 2. Indien er locaties zijn doorgegeven, zullen deze worden verplaatst.
 
 ### Artikel 7: GTA Style Driving
 1. Als burger ben je uiterst voorzichtig met je voertuig en wordt er geacht een realistisch rijgedrag aan te houden.
@@ -61,7 +60,7 @@ Hieronder vind je alle algemene regels waar elke speler zich aan dient te houden
 
 ### Artikel 8: Breaking Character (ooc praten)
 1. Binnen voicechat, portofoon, Twitter of Instagram is het verplicht om binnen je karakter te blijven.
-2. Bovenstaande, mits de situatie een staff-zaak is geworden en er een staff-lid bij je staat.
+2. Bovenstaande, mits de situatie een staff-zaak is geworden, doordat een staff-lid jou of mensen binnen dezelfde roleplay aanspreekt.
 3. Indien hier niet aan gehouden wordt, zal dit resulteren in een waarschuwing.
 
 ### Artikel 9: Combatloggen
@@ -131,7 +130,7 @@ Hieronder vind je alle algemene regels waar elke speler zich aan dient te houden
 ## Strafbare feiten: Interactie met spelers
 ### Artikel 17: Vehicle Deathmatch (VDM)
 1. Een voertuig gebruiken als wapen is niet toegestaan.
-2. Dit betekent dus dat je een voertuig gebruikt om iemand te vermoorden of verwonden.
+2. Dit betekent dus dat je een voertuig gebruikt om iemand te vermoorden.
 3. Het niet in acht nemen van deze regel zal worden bestraft met een sanctie uit artikel 2.
 
 ### Artikel 18: Random Deathmatch (RDM)
@@ -222,13 +221,13 @@ Hieronder vind je alle algemene regels waar elke speler zich aan dient te houden
 ## Kort overzicht
 - Dit is een stad, geen server
 - Ben je AFK? Gebruik dan via het F3 menu een animatie. Bijvoorbeeld het roken van een sigaret of een bakje koffie. Ben je langer dan 5 minuten AFK dan zul je automatisch gekicked worden.
-- Ga je weg? Zeg dan dat je gaat slapen.
+- Ga je weg? Maak de roleplay even af.
 - Gedraag je zoals je in het echte leven ook zou doen.
 - Gebruik /me om te beschrijven wat je karakter doet
 - De luchthaven, gevangenis en de militaire basis mag niet betreden worden. De luchthaven mag alleen betreden worden als je een vergunning hebt.
 - Je bent verplicht je standaard kleding te veranderen wanneer je voor het eerst de stad in komt.
 - Het is niet toegestaan om als burger in overheidskleding rond te lopen.
-- Wil je iets aan iemand uitleggen? Gebruik dan spier i.p.v. toets. Bijvoorbeeld: 'Gebruik de F5-spier om je ID kaart te laten zien'.
+- Wil je iets aan iemand uitleggen? Gebruik dan spier i.p.v. toets. Bijvoorbeeld: 'Gebruik de F7-spier om je boetes te betalen'.
 - Je bent verplicht voicechat aan te hebben
 - Als je iemand wilt bereiken gebruik je je mobiele telefoon en vraag je het via Twitter om SMS
 - Wanneer je een staff-lid nodig hebt, maak je gebruik van /report
@@ -237,9 +236,9 @@ Hieronder vind je alle algemene regels waar elke speler zich aan dient te houden
 - Nep meldingen naar overheidsdiensten is niet toegestaan
 - Als je Politie/Ambulance/ANWB belt, kun je via 'Stuur een bericht' een gedetailleerder bericht sturen.
 - Als er een ambulancier is, gebruik je /me om te vertellen wat er aan de hand is
-- De roleplay van de ambulance leidt
+- De roleplay van de ambulance is leidend.
 - Het is verplicht ABN te spreken
 - Het is verboden om via alt accounts de stad te betreden
 - Het is niet toegestaan om te streamsnipen
 - VDM/RDM/Copbaiting/Combatloggen is niet toegstaan
-- Achterhoek is een vrouwvriendelijke stad. Heb daarom ook respect voor vrouwen.
+- Achterhoek is een stad voor iedereen. Heb dus ook respect voor alles en iedereen.
