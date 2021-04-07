@@ -47,9 +47,8 @@ Hieronder vind je alle algemene regels waar elke speler zich aan dient te houden
 
 ### Artikel 6: Meta Gaming
 1. Alle informatie die buiten de roleplay wordt verkregen, mag niet gebruikt worden binnen de roleplay.
-2. Het bovenstaande valt onder meta gaming.
-3. Indien je gebruik maakt van een portofoon systeem, dien je ingame hoorbaar te zijn.
-4. Meta gaming zal worden bestraft een sanctie uit artikel 2. Indien er locaties zijn doorgegeven, zullen deze worden verplaatst.
+2. Indien je gebruik maakt van een portofoon systeem, dien je ingame hoorbaar te zijn.
+3. Meta gaming zal worden bestraft een sanctie uit artikel 2. Indien er locaties zijn doorgegeven, zullen deze worden verplaatst.
 
 ### Artikel 7: GTA Style Driving
 1. Als burger ben je uiterst voorzichtig met je voertuig en wordt er geacht een realistisch rijgedrag aan te houden.
