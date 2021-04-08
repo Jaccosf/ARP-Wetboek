@@ -59,7 +59,7 @@ Hieronder vind je alle algemene regels waar elke speler zich aan dient te houden
 6. Indien hier niet aan gehouden wordt, zullen er sancties getroffen worden.
 
 ### Artikel 8: Breaking Character (ooc praten)
-1. Binnen voicechat, portofoon, Twitter of Instagram is het verplicht om binnen je karakter te blijven.
+1. Binnen voicechat, portofoon, of apps op je telefoon is het verplicht om binnen je karakter te blijven.
 2. Bovenstaande, mits de situatie een staff-zaak is geworden, doordat een staff-lid jou of mensen binnen dezelfde roleplay aanspreekt.
 3. Indien hier niet aan gehouden wordt, zal dit resulteren in een waarschuwing.
 
@@ -198,8 +198,8 @@ Hieronder vind je alle algemene regels waar elke speler zich aan dient te houden
 3. Indien dit wel gebeurd, kan de desbetreffende persoon op staande voet worden ontslagen en kan er, afhangend van de situatie, zullen er ook vanuit staff maatregelen worden genomen.
 4. Een agent uit dienst mag geen dienstwapens bij zich dragen. Deze dienen ten alle tijden na een dienst opgeborgen te worden.
 
-### Artikel 26: Illegale zaken via Twitter en/of Instagram
-1. Het is verboden om op Twitter en/of Instagram te praten over illegale zaken.
+### Artikel 26: Illegale zaken via Twitter, Instagram & Reddit
+1. Het is verboden om op de bovenstaande telefoon apps te praten over illegale zaken.
 2. Illegale activiteiten dienen van mond tot mond te worden gevoerd.
 3. Indien hier niet aan gehouden wordt, kan dit leiden tot maatregelen
 
