@@ -16,12 +16,13 @@ Hier kunt u de algemene IC (In Charachter) regels van Achterhoek-RP vinden.
 ### Artikel 3: Rechten
 1. Iedereen heeft het recht om na een verhoor hoger beroep aan te vragen.
 2. Als een persoon aangehouden wordt, dienen de rechten voorgelezen te zijn voor dat het persoon in de tijdelijke cel zit.
-3. Politie dient aan iedereen die aangehouden word de rechten voor te lezen, voordat de cel betreden is m.u.v. aanhoudingen in het politiebureau. 
-4. Mocht een van de bovenstaande punten niet nageleefd worden, mag de verdachte niet langer vastgehouden worden.
-5. De rechtbank kan ook zelf een onderzoek starten naar een proces volgens het legaliteitsbeginsel.
-6. De verdachte is altijd onschuldig totdat het tegendeel bewezen is.
-7. De verdachte zelf of de vertegenwoordigende raadsman moet altijd de mogelijkheid krijgen om de verdachtes mening te laten horen.
-8. Iemand kan niet twee keer worden veroordeeld voor hetzelfde delict
+3. Een persoon mag maximaal 30 minuten in het cellencomplex van het politiebureau zitten, als er geen uitstel is gemeld aan de verdachte.
+4. Politie dient aan iedereen die aangehouden word de rechten voor te lezen, voordat de cel betreden is m.u.v. aanhoudingen in het politiebureau. 
+5. Mocht een van de bovenstaande punten niet nageleefd worden, mag de verdachte niet langer vastgehouden worden.
+6. De rechtbank kan ook zelf een onderzoek starten naar een proces volgens het legaliteitsbeginsel.
+7. De verdachte is altijd onschuldig totdat het tegendeel bewezen is.
+8. De verdachte zelf of de vertegenwoordigende raadsman moet altijd de mogelijkheid krijgen om de verdachtes mening te laten horen.
+9. Iemand kan niet twee keer worden veroordeeld voor hetzelfde delict.
 
 ### Artikel 4: Staande- of aanhoudingen
 1. De politie heeft het recht om personen na een strafbaar feit of bij een verdenking voor een strafbaar feit aan te houden.
