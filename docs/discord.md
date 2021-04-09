@@ -25,6 +25,7 @@
 4. Earrapen is verboden.
 5. Het gebruiken van een soundpad is verboden.
 6. Het gebruiken van een stemvervormer is verboden.
+7. Zwartpraten over anderen is niet toegestaan.
 
 #### Gangaanvragen
 1. Het is mogelijk om een gang te starten.
