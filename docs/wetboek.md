@@ -16,6 +16,7 @@ Hier kunt u de algemene IC (In Charachter) regels van Achterhoek-RP vinden.
 ### Artikel 3: Rechten
 1. Iedereen heeft het recht om na een verhoor hoger beroep aan te vragen.
 2. Als een persoon aangehouden wordt, dienen de rechten voorgelezen te zijn voor dat het persoon in de tijdelijke cel zit.
+- Er geldt echter één uitzondering op de bovenstaande regel: Als een agent het niet kan voorkomen, de rechten pas in de cel voor te lezen én het is een zaak in leven of dood, is dit niet strafbaar. Ook een OvJ moet achter het besluit van de agent staan.
 3. Een persoon mag maximaal 30 minuten in het cellencomplex van het politiebureau zitten, als er geen uitstel is gemeld aan de verdachte.
 4. Politie dient aan iedereen die aangehouden word de rechten voor te lezen, voordat de cel betreden is m.u.v. aanhoudingen in het politiebureau. 
 5. Mocht een van de bovenstaande punten niet nageleefd worden, mag de verdachte niet langer vastgehouden worden.
