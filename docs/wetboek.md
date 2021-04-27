@@ -23,9 +23,11 @@ Hier kunt u de algemene IC (In Charachter) regels van Achterhoek-RP vinden.
 7. Iemand kan niet twee keer worden veroordeeld voor hetzelfde delict.
 
 ### Artikel 4: Rechten bij aanhoudingen
-1. Iedere inwoner van Achterhoek heeft het recht om een raadsman te raadplegen, voorafgaand aan een politieverhoor.
-2. Het aangehoude persoon heeft het recht om te zwijgen.
-3. Het aangehoude persoon heeft t.a.t. recht op medische zorg.
+1. U heeft het recht om een raadsman te raadplegen, voorafgaand aan een politieverhoor.
+2. U heeft het recht om te zwijgen.
+3. U heeft t.a.t. recht op medische zorg.
+4. U heeft het recht om te weten van welk strafbaar feit u wordt verdacht.
+5. U heeft het recht om derden te laten weten dat u wordt vastgehouden.
 
 ### Artikel 5: Staande- of aanhoudingen
 1. De politie heeft het recht om personen na een strafbaar feit of bij een verdenking voor een strafbaar feit aan te houden.
