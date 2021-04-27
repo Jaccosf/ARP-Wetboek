@@ -13,31 +13,33 @@ Hier kunt u de algemene IC (In Charachter) regels van Achterhoek-RP vinden.
 3. De politie heeft het recht om een garage, waar mogelijk illegale spullen inliggen, te doorzoeken. 
 4. Zodra de politie een bevel van de OvD heeft, dient u dus ook met alle bovengenoemden mee te werken.
 
-### Artikel 3: Rechten
+### Artikel 3: Algmene Rechten
 1. Iedereen heeft het recht om na een verhoor hoger beroep aan te vragen.
-2. Als een persoon aangehouden wordt, dienen de rechten voorgelezen te zijn voor dat het persoon in de tijdelijke cel zit.
-- Er geldt echter één uitzondering op de bovenstaande regel: Als een agent het niet kan voorkomen, de rechten pas in de cel voor te lezen én het is een zaak in leven of dood, is dit niet strafbaar. Ook een OvJ moet achter het besluit van de agent staan.
-3. Een persoon mag maximaal 30 minuten in het cellencomplex van het politiebureau zitten, als er geen uitstel is gemeld aan de verdachte.
-4. Politie dient aan iedereen die aangehouden word de rechten voor te lezen, voordat de cel betreden is m.u.v. aanhoudingen in het politiebureau. 
-5. Mocht een van de bovenstaande punten niet nageleefd worden, mag de verdachte niet langer vastgehouden worden.
-6. De rechtbank kan ook zelf een onderzoek starten naar een proces volgens het legaliteitsbeginsel.
-7. De verdachte is altijd onschuldig totdat het tegendeel bewezen is.
-8. De verdachte zelf of de vertegenwoordigende raadsman moet altijd de mogelijkheid krijgen om de verdachtes mening te laten horen.
-9. Iemand kan niet twee keer worden veroordeeld voor hetzelfde delict.
+2. Een persoon mag maximaal 30 minuten in het cellencomplex van het politiebureau zitten, als er geen uitstel is gemeld aan de verdachte.
+3. Mocht een van de bovenstaande punten niet nageleefd worden, mag de verdachte niet langer vastgehouden worden.
+4. De rechtbank kan ook zelf een onderzoek starten naar een proces volgens het legaliteitsbeginsel.
+5. De verdachte is altijd onschuldig totdat het tegendeel bewezen is.
+6. De verdachte zelf of de vertegenwoordigende raadsman moet altijd de mogelijkheid krijgen om de verdachtes mening te laten horen.
+7. Iemand kan niet twee keer worden veroordeeld voor hetzelfde delict.
 
-### Artikel 4: Staande- of aanhoudingen
+### Artikel 4: Rechten bij aanhoudingen
+1. Iedere inwoner van Achterhoek heeft het recht om een raadsman te raadplegen, voorafgaand aan een politieverhoor.
+2. Het aangehoude persoon heeft het recht om te zwijgen.
+3. Het aangehoude persoon heeft t.a.t. recht op medische zorg.
+
+### Artikel 5: Staande- of aanhoudingen
 1. De politie heeft het recht om personen na een strafbaar feit of bij een verdenking voor een strafbaar feit aan te houden.
 2. De politie mag ten alle tijden iemand staandehouden.
 3. De politie heeft het recht om de voertuigen van personen, die het snelheidslimiet met 50 km/u overtreden hebben, in te nemen.
 4. De politie mag t.a.t. aan een persoon bevelen gezichtsbedekkende kleding af te doen.
 
-### Artikel 5: Openstaande boetes
+### Artikel 6: Openstaande boetes
 1. Als een persoon meer dan €7.500 aan boetes open heeft staan, kan er bij de strafeis van een ander delict rekening mee gehouden worden en eventuele extra sancties worden opgelegd. 
 2. Het persoon dient ook een optie te krijgen om op het moment zelf een aantal boetes te betalen, zodat dit persoon alsnog onder het maximale openstaande bedrag komt.
 3. Politie heeft het recht om in dit geval de rechtbank of OvJ te vragen om inbeslagname van goederen van het persoon.
 4. Onder bijzondere omstandigheden kan een persoon een aanvraag doen bij de rechtbank voor het doen van een vervangende straf om de boetes af te betalen.
 
-### Artikel 6: Straffen
+### Artikel 7: Straffen
     - Waarschuwing
     - Geldboete
     - Rijontzegging
@@ -203,11 +205,11 @@ Alle boetes in artikelen I, II & III zullen €9 administratiekosten extra ontva
 
     ***** Deze gebieden zijn: BP, ANWB, Ziekenhuis en Politie HB
 
-### Artikel 7: Advocaten
+### Artikel 8: Advocaten
 1. Ieder persoon in Achterhoek heeft recht op een advocaat.
 2. Een officiële advocaat moet in het bezit zijn van een advocatenpas.
 
-### Artikel 8: Rechtbank in het algemeen
+### Artikel 9: Rechtbank in het algemeen
 1. De OvJ word geraadpleegd als bij de volgende benodigdheden:
     - hoger beroep
     - huiszoekingen
