@@ -185,6 +185,7 @@ Hieronder vind je alle algemene regels waar elke speler zich aan dient te houden
     - De communicatie mag worden afgepakt via /me. (Als een hulpdienst hieraan niet meewerkt, is diegene ook strafbaar bezig.)
 4. Het is verboden om startersgeld van spelers af te nemen.
 5. Om afspraken te bevestigen, kan je een contract schrijven (F11). Zodra een contract ondertekend is, dient een persoon zich eraan te houden. Doet diegene dit niet, dan is dit een IC kwestie en kan je naar de politie/rechtbank. Dit is dus niet voor OOC/staff.
+6. De hierboven beschreven contracten zijn ook na het overlijden van een persoon nog geldig.
 
 ### Artikel 25: Criminaliteit & Overheidsdiensten
 1. Het is verboden om als overheidsdienst bezig te zijn met illegale zaken.
