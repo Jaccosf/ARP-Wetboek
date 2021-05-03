@@ -228,4 +228,4 @@ Alle boetes in artikelen I, II & III zullen €9 administratiekosten extra ontva
 2. Aanklachten van of tegen de staat zullen worden behandeld door het vertegenwoordigd door het OM.
 3. Aanpassingen in het IC wetboek worden altijd overlegd met de rechtbank.
 4. De rechtbank kan besluiten iemand in afwachting van een proces op borgtocht vrij te laten.
-5. Elk persoon in Achterhoek heeft het recht een zaak aan te spannen tegen een ander of de staat.
+5. Elk persoon in Achterhoek heeft het recht een zaak aan te spannen tegen een andere burger of de staat.
