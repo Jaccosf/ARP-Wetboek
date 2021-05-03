@@ -2,6 +2,14 @@
 
 Hier kunt u de algemene IC (In Charachter) regels van Achterhoek-RP vinden.
 
+### Artikel 1: Deelname aan het verkeer
+1. De maximumsnelheid op parkeerterreinen is 30km/u
+2. De maximumsnelheid binnen de bebouwde kom is 80km/u
+3. De maximumsnelheid op snelwegen is 130km/u 
+4. Voertuigen moeten zijn uitgerust met één of meerdere kentekenplaten.
+5. Voertuigen mogen geen deuren missen tijdens de verkeersdeelname.
+6. De inzittende van voertuigen moeten zichtbaar kunnen zijn door de ramen.
+7. De bovenstaande regels kunnen alleen worden geschaad, indien het debetreffende persoon hier een ontheffing voor heeft.
 
 ### Artikel 2: Algmene Rechten
 1. Iedereen heeft het recht om na een verhoor hoger beroep aan te vragen.
