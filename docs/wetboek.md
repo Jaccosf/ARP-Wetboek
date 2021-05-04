@@ -226,6 +226,15 @@ Alle boetes in artikelen I, II & III zullen €9 administratiekosten extra ontva
     - huiszoekingen
     - beslagname
 2. Aanklachten van of tegen de staat zullen worden behandeld door het vertegenwoordigd door het OM.
-3. Aanpassingen in het IC wetboek worden altijd overlegd met de rechtbank.
+3. Aanpassingen in het wetboek worden altijd overlegd met de rechtbank.
 4. De rechtbank kan besluiten iemand in afwachting van een proces op borgtocht vrij te laten.
-5. Elk persoon in Achterhoek heeft het recht een zaak aan te spannen tegen een andere burger of de staat.
+
+### Artikel 11: Aanspannen van een rechtszaak
+1. Elk persoon in Achterhoek heeft het recht een zaak aan te spannen tegen een andere burger of de staat.
+2. Een rechtszaak aanspannen is in tegenstelling tot een aangifte op eigen kosten, dit betekent dat de volgende kosten op zelf moeten worden betaald:
+    - De kosten van het starten van een procedure
+    - Advocaatkosten
+    - Kosten voor deskundigen en getuigen die u inschakelt
+3. Als de rechtszaak gewonnen is door de aanklagende partij, kunnen de kosten van de procedure naar de verliezende partij gaan.
+4. Indien u een advocaat niet kan betalen, komt u in aanmerking voor gesubsidieerde rechtsbijstand. Hierbij betaalt de overheid het grootste deel van de advocaat.
+5. Bent u het niet eens met de uitkomst? Dan kan u altijd nog in hoger beroep gaan.
