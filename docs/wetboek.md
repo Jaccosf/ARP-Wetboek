@@ -11,7 +11,7 @@ Hier kunt u de algemene IC (In Charachter) regels van Achterhoek-RP vinden.
 6. De inzittende van voertuigen moeten zichtbaar kunnen zijn door de ramen.
 7. De bovenstaande regels kunnen alleen worden geschaad, indien het debetreffende persoon hier een ontheffing voor heeft.
 
-### Artikel 2: Algmene Rechten
+### Artikel 2: Algemene Rechten
 1. Iedereen heeft het recht om na een verhoor hoger beroep aan te vragen.
 2. Een persoon mag maximaal 30 minuten in het cellencomplex van het politiebureau zitten, als er geen uitstel is gemeld aan de verdachte.
 3. Mocht een van de bovenstaande punten niet nageleefd worden, mag de verdachte niet langer vastgehouden worden.
