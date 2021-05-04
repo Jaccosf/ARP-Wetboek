@@ -2,18 +2,16 @@
 
 Hier kunt u de algemene IC (In Charachter) regels van Achterhoek-RP vinden.
 
-### Artikel 1: Het dienstwapen
-1. Een agent dient zijn of haar dienstwapens t.a.t. in te leveren, wanneer diegene UIT-dienst gaat.
-2. Het doorspelen van een van de dienstwapens is ten strengste verboden! (Tijdens een gijzeling mag het dienstwapen echter wel worden afgepakt met /me.)
-3. De bovengenoemde regels zullen streng worden gehandhaafd en kunnen resulteren in een harde maatregelen.
+### Artikel 1: Deelname aan het verkeer
+1. De maximumsnelheid op parkeerterreinen is 30km/u
+2. De maximumsnelheid binnen de bebouwde kom is 80km/u
+3. De maximumsnelheid op snelwegen is 130km/u 
+4. Voertuigen moeten zijn uitgerust met één of meerdere kentekenplaten.
+5. Voertuigen mogen geen deuren missen tijdens de verkeersdeelname.
+6. De inzittende van voertuigen moeten zichtbaar kunnen zijn door de ramen.
+7. De bovenstaande regels kunnen alleen worden geschaad, indien het debetreffende persoon hier een ontheffing voor heeft.
 
-### Artikel 2: Invallen
-1. De politie heeft het recht om een huiszoeking te doen.
-2. De politie heeft het recht om een bedrijf, wat mogelijk corrupt is of fraude pleegt, te doorzoeken. 
-3. De politie heeft het recht om een garage, waar mogelijk illegale spullen inliggen, te doorzoeken. 
-4. Zodra de politie een bevel van de OvD heeft, dient u dus ook met alle bovengenoemden mee te werken.
-
-### Artikel 3: Algmene Rechten
+### Artikel 2: Algmene Rechten
 1. Iedereen heeft het recht om na een verhoor hoger beroep aan te vragen.
 2. Een persoon mag maximaal 30 minuten in het cellencomplex van het politiebureau zitten, als er geen uitstel is gemeld aan de verdachte.
 3. Mocht een van de bovenstaande punten niet nageleefd worden, mag de verdachte niet langer vastgehouden worden.
@@ -22,26 +20,37 @@ Hier kunt u de algemene IC (In Charachter) regels van Achterhoek-RP vinden.
 6. De verdachte zelf of de vertegenwoordigende raadsman moet altijd de mogelijkheid krijgen om de verdachtes mening te laten horen.
 7. Iemand kan niet twee keer worden veroordeeld voor hetzelfde delict.
 
-### Artikel 4: Rechten bij aanhoudingen
+### Artikel 3: Rechten bij aanhoudingen
 1. U heeft het recht om een raadsman te raadplegen, voorafgaand aan een politieverhoor.
 2. U heeft het recht om te zwijgen.
 3. U heeft t.a.t. recht op medische zorg.
 4. U heeft het recht om te weten van welk strafbaar feit u wordt verdacht.
 5. U heeft het recht om derden te laten weten dat u wordt vastgehouden.
 
-### Artikel 5: Staande- of aanhoudingen
+### Artikel 4: Staande- of aanhoudingen
 1. De politie heeft het recht om personen na een strafbaar feit of bij een verdenking voor een strafbaar feit aan te houden.
 2. De politie mag ten alle tijden iemand staandehouden.
 3. De politie heeft het recht om de voertuigen van personen, die het snelheidslimiet met 50 km/u overtreden hebben, in te nemen.
 4. De politie mag t.a.t. aan een persoon bevelen gezichtsbedekkende kleding af te doen.
 
-### Artikel 6: Openstaande boetes
+### Artikel 5: Openstaande boetes
 1. Als een persoon meer dan €7.500 aan boetes open heeft staan, kan er bij de strafeis van een ander delict rekening mee gehouden worden en eventuele extra sancties worden opgelegd. 
 2. Het persoon dient ook een optie te krijgen om op het moment zelf een aantal boetes te betalen, zodat dit persoon alsnog onder het maximale openstaande bedrag komt.
 3. Politie heeft het recht om in dit geval de rechtbank of OvJ te vragen om inbeslagname van goederen van het persoon.
 4. Onder bijzondere omstandigheden kan een persoon een aanvraag doen bij de rechtbank voor het doen van een vervangende straf om de boetes af te betalen.
 
-### Artikel 7: Straffen
+### Artikel 6: Het dienstwapen
+1. Een agent dient zijn of haar dienstwapens t.a.t. in te leveren, wanneer diegene UIT-dienst gaat.
+2. Het doorspelen van een van de dienstwapens is ten strengste verboden! (Tijdens een gijzeling mag het dienstwapen echter wel worden afgepakt met /me.)
+3. De bovengenoemde regels zullen streng worden gehandhaafd en kunnen resulteren in een harde maatregelen.
+
+### Artikel 7: Invallen
+1. De politie heeft het recht om een huiszoeking te doen.
+2. De politie heeft het recht om een bedrijf, wat mogelijk corrupt is of fraude pleegt, te doorzoeken. 
+3. De politie heeft het recht om een garage, waar mogelijk illegale spullen inliggen, te doorzoeken. 
+4. Zodra de politie een bevel van de OvD heeft, dient u dus ook met alle bovengenoemden mee te werken.
+
+### Artikel 8: Straffen
     - Waarschuwing
     - Geldboete
     - Rijontzegging
@@ -207,16 +216,25 @@ Alle boetes in artikelen I, II & III zullen €9 administratiekosten extra ontva
 
     ***** Deze gebieden zijn: BP, ANWB, Ziekenhuis en Politie HB
 
-### Artikel 8: Advocaten
+### Artikel 9: Advocaten
 1. Ieder persoon in Achterhoek heeft recht op een advocaat.
 2. Een officiële advocaat moet in het bezit zijn van een advocatenpas.
 
-### Artikel 9: Rechtbank in het algemeen
+### Artikel 10: Rechtbank in het algemeen
 1. De OvJ word geraadpleegd als bij de volgende benodigdheden:
     - hoger beroep
     - huiszoekingen
     - beslagname
 2. Aanklachten van of tegen de staat zullen worden behandeld door het vertegenwoordigd door het OM.
-3. Aanpassingen in het IC wetboek worden altijd overlegd met de rechtbank.
+3. Aanpassingen in het wetboek worden altijd overlegd met de rechtbank.
 4. De rechtbank kan besluiten iemand in afwachting van een proces op borgtocht vrij te laten.
-5. Elk persoon in Achterhoek heeft het recht een zaak aan te spannen tegen een ander of de staat.
+
+### Artikel 11: Aanspannen van een rechtszaak
+1. Elk persoon in Achterhoek heeft het recht een zaak aan te spannen tegen een andere burger of de staat.
+2. Een rechtszaak aanspannen is in tegenstelling tot een aangifte op eigen kosten, dit betekent dat de volgende kosten op zelf moeten worden betaald:
+    - De kosten van het starten van een procedure
+    - Advocaatkosten
+    - Kosten voor deskundigen en getuigen die u inschakelt
+3. Als de rechtszaak gewonnen is door de aanklagende partij, kunnen de kosten van de procedure naar de verliezende partij gaan.
+4. Indien u een advocaat niet kan betalen, komt u in aanmerking voor gesubsidieerde rechtsbijstand. Hierbij betaalt de overheid het grootste deel van de advocaat.
+5. Bent u het niet eens met de uitkomst? Dan kan u altijd nog in hoger beroep gaan.
