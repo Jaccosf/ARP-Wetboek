@@ -1,6 +1,7 @@
 # Discord regels
 
 #### Algemeen
+- Volg de discord TOS op!
 - Discriminatie in welke vorm dan ook is ten strengste verboden. (Dit geldt ook voor profielfoto's en/of statussen.)
 - Zwartpraten over andere spelers en/of staffleden is verboden.
 - Schelden met ziektes is verboden.
