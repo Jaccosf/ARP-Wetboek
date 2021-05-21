@@ -112,6 +112,8 @@ Alle boetes in artikelen I, II & III zullen €9 administratiekosten extra ontva
 
 - Rijden zonder helm | €95
 
+- Te donkere ramentint | €75
+
 #### Artikel II
 - Verkeer hinderen | €140
 
@@ -135,6 +137,8 @@ Alle boetes in artikelen I, II & III zullen €9 administratiekosten extra ontva
 
 - Niet hebben van geldig legitimatiebewijs | €90
 
+- Doorrijden na verkeersongeval of aanrijding | 20 taken
+
 #### Artikel III
 - Bedreiging burger | €750
 
@@ -149,7 +153,9 @@ Alle boetes in artikelen I, II & III zullen €9 administratiekosten extra ontva
 
 - Winkel overval | €1500 
 
-- Bank overval | €2500 
+- Bank overval | €2500
+
+- Huisinbraak | 10 maanden celstraf
 
 - Moord op burger | €20000 
 
