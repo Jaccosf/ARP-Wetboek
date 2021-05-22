@@ -228,6 +228,11 @@ Hieronder vind je alle algemene regels waar elke speler zich aan dient te houden
 - Je rijdt in een door de cardealer catalogus aangegeven: SUV's én je rijdt onder de 80 km/u
 - Je rijdt in een door de cardealer catalogus aangegeven: Buggy of Rally voertuig én je rijdt onder de 120 km/u
 
+### Artikel 31: Donatie
+1. Het is niet mogelijk een donatie te refunden.
+2. Het is niet toegestaan om overvallen te plegen met donatievoertuigen.
+3. Het is niet toegestaan donatievoertuigen door te verkopen.
+
 ## Overig & Overzicht
 - Dit is een stad, geen server.
 - Ben je AFK? Gebruik dan via het F3 menu een animatie. Bijvoorbeeld het roken van een sigaret of een bakje koffie. Ben je langer dan 5 minuten AFK dan zul je automatisch gekicked worden.
