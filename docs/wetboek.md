@@ -112,6 +112,8 @@ Alle boetes in artikelen I, II & III zullen €9 administratiekosten extra ontva
 
 - Rijden zonder helm | €95
 
+- Te donkere ramentint | €75
+
 #### Artikel II
 - Verkeer hinderen | €140
 
@@ -135,6 +137,8 @@ Alle boetes in artikelen I, II & III zullen €9 administratiekosten extra ontva
 
 - Niet hebben van geldig legitimatiebewijs | €90
 
+- Doorrijden na verkeersongeval of aanrijding | 20 taken
+
 #### Artikel III
 - Bedreiging burger | €750
 
@@ -149,7 +153,9 @@ Alle boetes in artikelen I, II & III zullen €9 administratiekosten extra ontva
 
 - Winkel overval | €1500 
 
-- Bank overval | €2500 
+- Bank overval | €2500
+
+- Huisinbraak | 10 maanden celstraf
 
 - Moord op burger | €20000 
 
@@ -173,7 +179,7 @@ Alle boetes in artikelen I, II & III zullen €9 administratiekosten extra ontva
 
 - Mishandeling burger | 30 taken 
 
-- Per 5 openstaande boetes | 10 taken 
+- Per 5 openstaande boetes | OvJ******
 
 - Vluchtmisdrijf | 25 taken* 
 
@@ -215,6 +221,8 @@ Alle boetes in artikelen I, II & III zullen €9 administratiekosten extra ontva
     **** Bij de tweede overtreding van deze soort, komen er 10 maanden celstraf bij per keer. 
 
     ***** Deze gebieden zijn: BP, ANWB, Ziekenhuis en Politie HB
+
+    ****** Standaard is 10 taken, onder 20 openstaande boetes kan politie dit uitvoeren en is er geen OvJ nodig.
 
 ### Artikel 9: Advocaten
 1. Ieder persoon in Achterhoek heeft recht op een advocaat.
