@@ -9,7 +9,7 @@ theme:
   favicon: img/achterhoek-logo.png
   palette:
       # Light mode
-    - media: "(prefers-color-scheme: light)"
+#     - media: "(prefers-color-scheme: light)"
       scheme: default
       primary: deep orange
       accent: deep orange
@@ -18,7 +18,7 @@ theme:
         name: Donkere modus
 
       # Dark mode
-    - media: "(prefers-color-scheme: dark)"
+#     - media: "(prefers-color-scheme: dark)"
       scheme: slate
       primary: deep orange
       accent: deep orange
