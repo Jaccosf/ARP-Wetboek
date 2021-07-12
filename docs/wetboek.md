@@ -110,6 +110,8 @@ Alle boetes in artikelen I, II & III zullen €9 administratiekosten extra ontva
 
 - Rijden zonder verlichting | €140
 
+- Illegale sierverlichting | €140
+
 - Rijden zonder helm | €95
 
 - Te donkere ramentint | €75
@@ -203,6 +205,8 @@ Alle boetes in artikelen I, II & III zullen €9 administratiekosten extra ontva
 - Poging tot doodslag burger | 50 maanden celstraf 
 
 - Schieten ambtenaar in functie | 40 maanden celstraf 
+
+- Actieve omkoping ambtenaar in functie | 30 maanden celstraf
 
 - Schieten op burger | 10 maanden celstraf 
 
