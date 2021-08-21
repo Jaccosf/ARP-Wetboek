@@ -6,7 +6,7 @@ Mis je iets, of heb je ergens een vraag over? Maak dan een ticket aan in onze Di
 
 **LET OP:** Het wetboek kan t.a.t. gewijzigd worden!
 
-**Discord:** [Klik hier](https://dsc.gg/achterhoekrp)
+**Discord:** [Klik hier](https://achterhoek-rp.nl/discord)
 
 **Website:** [Tijdelijk in onderhoud!](https://www.achterhoek-rp.nl)
 
