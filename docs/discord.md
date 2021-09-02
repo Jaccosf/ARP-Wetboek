@@ -1,7 +1,7 @@
 # Discord regels
 
 #### Algemeen
-- Volg de discord TOS op!
+- Volg de discord [#TOS](https://discord.com/terms) op!
 - Het is verplicht de Nederlandse taal te gebruiken.
 - Discriminatie in welke vorm dan ook is ten strengste verboden. (Dit geldt ook voor profielfoto's en/of statussen.)
 - Zwartpraten over andere spelers en/of staffleden is verboden.
@@ -17,8 +17,8 @@
 1. Reclame maken/zelfpromotie is verboden.
 2. Niet onnodig taggen.
 3. Gebruik de kanalen waarvoor ze bedoeld zijn.
-4. Voor een gesprek met staff maak je een ticket aan in [#📝ticket-balie](https://dsc.gg/achterhoekrp)
-5. Unban aanvragen gaan altijd via een ticket, nooit via andere tekstkanalen! [#📝ticket-balie](https://dsc.gg/achterhoekrp)
+4. Voor een gesprek met staff maak je een ticket aan in [#📝ticket-balie](https://achterhoek-rp.nl/discord)
+5. Unban aanvragen gaan altijd via een ticket, nooit via andere tekstkanalen! [#📝ticket-balie](https://achterhoek-rp.nl/discord)
 
 #### Spraakkanalen
 1. OOC 1 & 2 mogen alleen door spelers in Achterhoek gebruikt worden.
@@ -33,4 +33,4 @@
 1. Het is mogelijk om een gang te starten.
 2. Wanneer alle regels goed worden nageleefd is er een kans dat jou gang een officiële gang wordt.
 3. Een onofficiële discord mag alleen gebruikt worden indien er een lid van de gemeente bestuur in de discord word toegelaten en toegang krijgt tot alle kanalen.
-4. Dit bovenstaande kan de gang regelen via een ticket [#📝ticket-balie](https://dsc.gg/achterhoekrp) in de discord.
+4. Dit bovenstaande kan de gang regelen via een ticket [#📝ticket-balie](https://achterhoek-rp.nl/discord) in de discord.

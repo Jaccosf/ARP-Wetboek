@@ -84,7 +84,7 @@ Alle boetes in artikelen I, II & III zullen €9 administratiekosten extra ontva
 
 - Negeren rood verkeerslicht | €240
 
-- Gevaarlijk rijgedrag | €500
+- Gevaarlijk rijgedrag* | €500
 
 - Ongeldige A.P.K. | €140
 
@@ -216,7 +216,7 @@ Alle boetes in artikelen I, II & III zullen €9 administratiekosten extra ontva
 
 #### N.B.  
 
-    * De straffen op vluchtmisdrijf verschillen per situatie en zal dus ook moeten worden bepaald na nader inzien. Meestal als iemand dit pleegt wordt degene ook aangehouden, dan kan je voor het vluchtmisdrijf naar de rechtbank. Is dit niet zo? Dan kan je degene gewoon de boete of taakstraffen geven.  
+    * De straffen verschillen per situatie en zal dus ook moeten worden bepaald na nader inzien. Meestal als iemand dit pleegt wordt degene ook aangehouden, dan kan je voor het delict naar de rechtbank. Is dit niet zo? Dan kan je degene gewoon de straf geven.  
 
     ** Alle straffen met rijbewijs invorderen, mogen nu nog worden gedaan door de politie. Binnenkort wordt dit door de rechtbank gedaan. Hierover later meer. 
  

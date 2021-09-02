@@ -27,7 +27,7 @@ Hieronder vind je alle algemene regels waar elke speler zich aan dient te houden
 3. Het gebruik maken hiervan zal bestraft worden met een permanente verbanning.
 
 ### Artikel 4: Exploits / Bug abuse
-1. Wanneer jij een bug of exploit vindt, is het verplicht deze te melden in [#🚫bugs](https://dsc.gg/achterhoekrp).
+1. Wanneer jij een bug of exploit vindt, is het verplicht deze te melden in [#🚫bugs](https://achterhoek-rp.nl/discord).
 2. Het omzeilen van een AFK kick is verboden en valt onder bug abuse.
 3. Het misbruiken van een bug of exploit is ten strengste verboden, en zal ook zwaar gestraft worden.
 
