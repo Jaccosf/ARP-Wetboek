@@ -42,6 +42,7 @@ Hieronder vind je alle algemene regels waar elke speler zich aan dient te houden
     - Combatloggen
     - Wegrijden / weglopen na een autocrash of met lekke banden
     - Spammen in welke chat dan ook
+    - Meer dan 50 openstaande boetes hebben
 3. Wij gaan er vanuit dat de speler snapt wanneer iets onrealistisch is. Het staff-lid zal de uiteindelijke conclusie trekken.
 4. Dit zal dan ook bestraft worden met een sanctie uit artikel 2.
 
