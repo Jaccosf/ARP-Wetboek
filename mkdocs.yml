@@ -36,7 +36,7 @@ plugins:
       lang: nl
   - git-revision-date-localized:
       type: timeago
-      time_zone: Europe/Amsterdam
+      timezone: Europe/Amsterdam
       locale: nl
       fallback_to_build_date: false
 
