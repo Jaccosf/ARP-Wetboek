@@ -66,153 +66,101 @@ Hier kunt u de algemene IC (In Charachter) regels van Achterhoek-RP vinden.
 Alle boetes in artikelen I, II & III zullen €9 administratiekosten extra ontvangen.
 
 #### Artikel I
-- Onnodig claxonneren | €90
-
-- Spookrijden | €640
-
-- Keerverbod | €140
-
-- Off-road rijden | €95
-
-- Bumper kleven | €280
-
-- Parkeerverbod | €95
-
-- Rechts inhalen | €230 
-
-- Geen voorrang verlenen aan hulpdiensten | €240 
-
-- Negeren rood verkeerslicht | €240
-
-- Gevaarlijk rijgedrag* | €500
-
-- Ongeldige A.P.K. | €140
-
-- Rijden zonder rijbewijs ****| €360
-
-- Vluchtmisdrijf | €2400* 
-
-- Tot 5 km/u te snel | €35 
-
-- Tot 15 km/u te snel | €137 
-
-- Tot 30 km/u te snel | €340
-
-- Tot 50 km/u te snel | €750 
-
-- Negeren stopteken | €370
-
-- Rijden onder invloed | €1000
-
-- Deelnemen illegale straatrace | €500
-
-- Organiseren illegale straatrace | €4350
-
-- Rijden zonder verlichting | €140
-
-- Illegale sierverlichting | €140
-
-- Rijden zonder helm | €95
-
-- Te donkere ramentint | €75
+| Overtreding                             | Prijs (exclusief administatiekosten) |
+| --------------------------------------- | ------------------------------------ |
+| Onnodig claxonneren                     | €90                                  |
+| Spookrijden                             | €640                                 |
+| Keerverbod                              | €140                                 |
+| Off-road rijden                         | €95                                  |
+| Bumper kleven                           | €280                                 |
+| Parkeerverbod                           | €95                                  |
+| Rechts inhalen                          | €230                                 |
+| Geen voorrang verlenen aan hulpdiensten | €240                                 |
+| Negeren rood verkeerslicht              | €240                                 |
+| Gevaarlijk rijgedrag                    | €500                                 |
+| Ongeldige A.P.K.                        | €140                                 |
+| Rijden zonder rijbewijs ****            | €360                                 |
+| Vluchtmisdrijf                          | €2400*                               |
+| Tot 5 km/u te snel                      | €35                                  |
+| Tot 15 km/u te snel                     | €137                                 |
+| Tot 30 km/u te snel                     | €340                                 |
+| Tot 50 km/u te snel                     | €750                                 |
+| Negeren stopteken                       | €370                                 |
+| Rijden onder invloed                    | €1000                                |
+| Deelnemen illegale straatrace           | €500                                 |
+| Organiseren illegale straatrace         | €4350                                |
+| Rijden zonder verlichting               | €140                                 |
+| Rijden zonder helm                      | €95                                  |
+| Te donkere ramentint                    | €75                                  |
 
 #### Artikel II
-- Verkeer hinderen | €140
-
-- Openbare ordeverstoring | €2250
-
-- Hulpdiensten hinderen | €350
-
-- Belediging burger | €350 
-
-- Belediging ambtenaar in functie | €350
-
-- Illegaal protest | €327
-
-- Negeren bevel ambtenaar in functie | €390
-
-- Geluidsoverlast | € 140
-
-- Drugsgebruik op verboden gebied***** | €95
-
-- Betreden verboden gebied | €225
-
-- Niet hebben van geldig legitimatiebewijs | €90
-
-- Doorrijden na verkeersongeval of aanrijding | 20 taken
+| Overtreding                                 | Prijs (exclusief administatiekosten)/Sanctie |
+| ------------------------------------------- | -------------------------------------------- |
+| Verkeer hinderen                            | €140                                         |
+| Openbare ordeverstoring                     | €2250                                        |
+| Hulpdiensten hinderen                       | €350                                         |
+| Belediging burger                           | €350                                         |
+| Belediging ambtenaar in functie             | €350                                         |
+| Illegaal protest                            | €327                                         |
+| Negeren bevel ambtenaar in functie          | €390                                         |
+| Geluidsoverlast                             | €140                                         |
+| Drugsgebruik op verboden gebied*****        | €95                                          |
+| Betreden verboden gebied                    | €225                                         |
+| Niet hebben van geldig legitimatiebewijs    | €90                                          |
+| Doorrijden na verkeersongeval of aanrijding | 20 taken                                     |
 
 #### Artikel III
-- Bedreiging burger | €750
-
-- Bedreiging ambtenaar in functie | €5000
-
-- Steekwapen in bezit | €325
+| Overtreding                     | Prijs (exclusief administatiekosten) |
+| ------------------------------- | ------------------------------------ |
+| Bedreiging burger               | €750                                 |
+| Bedreiging ambtenaar in functie | €5000                                |
+| Steekwapen in bezit             | €325                                 |
 
 #### Artikel IV
-- Autodiefstal | €750 
-
-- Overval | €1000 
-
-- Winkel overval | €1500 
-
-- Bank overval | €2500
-
-- Huisinbraak | 10 maanden celstraf
-
-- Moord op burger | €20000 
-
-- Moord op ambtenaar in functie | €26666 
-
-- Vandalisme | OvJ
+| Overtreding                   | Prijs (exclusief administatiekosten)/Sanctie |
+| ----------------------------- | -------------------------------------------- |
+| Autodiefstal                  | €750                                         |
+| Overval                       | €1000                                        |
+| Winkel overval                | €1500                                        |
+| Bank overval                  | €2500                                        |
+| Huisinbraak                   | 10 maanden celstraf                          |
+| Moord op burger               | €20000*                                      |
+| Moord op ambtenaar in functie | €26666*                                      |
+| Vandalisme                    | OvJ                                          |
 
 #### Artikel V
-- 50 km/u te hard+ | Rijbewijs invorderen** 
-
-- Letsel | OvJ
-
-- Deelname/organiseren illegale straatrace | Rijbewijs invorderen** 
+| Overtreding                              | Sanctie                |
+| ---------------------------------------- | ---------------------- |
+| 50 km/u te hard+                         | Rijbewijs invorderen** |
+| Letsel                                   | OvJ                    |
+| Deelname/organiseren illegale straatrace | Rijbewijs invorderen** |
 
 #### Artikel VI
-- Gijzelen ambtenaar in functie | 60 taken 
-
-- Gijzelen burger | 50 taken 
-
-- Mishandeling ambtenaar in functie | 40 taken 
-
-- Mishandeling burger | 30 taken 
-
-- Per 5 openstaande boetes | OvJ******
-
-- Vluchtmisdrijf | 25 taken* 
-
-- Steekwapen bezit | 50 taken 
+| Overtreding                       | Sanctie   |
+| --------------------------------- | --------- |
+| Gijzelen ambtenaar in functie     | 60 taken  |
+| Gijzelen burger                   | 50 taken  |
+| Mishandeling ambtenaar in functie | 40 taken  |
+| Mishandeling burger               | 30 taken  |
+| Per 5 openstaande boetes          | OvJ****** |
+| Vluchtmisdrijf                    | 25 taken* |
+| Steekwapen bezit                  | 50 taken  |
 
 #### Artikel VII
-- Moord ambtenaar in functie | 120 maanden celstraf 
-
-- Moord burger | 110 maanden celstraf 
-
-- Poging tot moord ambtenaar in functie | 100 maanden celstraf 
-
-- Poging tot moord burger | 90 maanden celstraf 
-
-- Doodslag ambtenaar in functie | 110 maanden celstraf 
-
-- Doodslag burger | 100 maanden celstraf 
-
-- Poging tot doodslag ambtenaar in functie | 90 maanden celstraf 
-
-- Poging tot doodslag burger | 50 maanden celstraf 
-
-- Schieten ambtenaar in functie | 40 maanden celstraf 
-
-- Actieve omkoping ambtenaar in functie | 30 maanden celstraf
-
-- Schieten op burger | 10 maanden celstraf 
-
-- Drugs bezit | OvJ
-
-- Drugs verkoop | OvJ
+| Overtreding                              | Sanctie              |
+| ---------------------------------------- | -------------------- |
+| Moord ambtenaar in functie               | 120 maanden celstraf |
+| Moord burger                             | 110 maanden celstraf |
+| Poging tot moord ambtenaar in functie    | 100 maanden celstraf |
+| Poging tot moord burger                  | 90 maanden celstraf  |
+| Doodslag ambtenaar in functie            | 110 maanden celstraf |
+| Doodslag burger                          | 100 maanden celstraf |
+| Poging tot doodslag ambtenaar in functie | 90 maanden celstraf  |
+| Poging tot doodslag burger               | 50 maanden celstraf  |
+| Schieten ambtenaar in functie            | 40 maanden celstraf  |
+| Schieten op burger                       | 10 maanden celstraf  |
+| Drugs bezit                              | OvJ                  |
+| Drugs verkoop                            | OvJ                  |
 
 #### N.B.  
 

@@ -8,6 +8,7 @@
 - Schelden met ziektes is verboden.
 - Seksuele content is niet toegestaan.
 - Luister t.a.t. naar staff.
+- Het sturen van een privébericht naar een stafflid of developer zonder toestemming is ten strengste verboden.
 - Het overtreden van een van de regels kan leiden in een:
     1. Mute
     2. Kick
