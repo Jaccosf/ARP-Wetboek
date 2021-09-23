@@ -8,6 +8,6 @@ Mis je iets, of heb je ergens een vraag over? Maak dan een ticket aan in onze Di
 
 **Discord:** [Klik hier](https://achterhoek-rp.nl/discord)
 
-**Website:** [Tijdelijk in onderhoud!](https://www.achterhoek-rp.nl)
+**Website:** [Klik hier](https://www.achterhoek-rp.nl)
 
 Zodra je de server op FiveM joint of de burger-rol in discord hebt ontvangen, ben je akkoord met deze regels.

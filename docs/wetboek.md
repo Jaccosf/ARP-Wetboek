@@ -174,6 +174,8 @@ Alle boetes in artikelen I, II & III zullen €9 administratiekosten extra ontva
 
     ***** Deze gebieden zijn: BP, ANWB, Ziekenhuis en Politie HB
 
+    ****** Standaard is 10 taken, onder 20 openstaande boetes kan politie dit uitvoeren en is er geen OvJ nodig.
+
 ### Artikel 9: Advocaten
 1. Ieder persoon in Achterhoek heeft recht op een advocaat.
 2. Een officiële advocaat moet in het bezit zijn van een advocatenpas.
