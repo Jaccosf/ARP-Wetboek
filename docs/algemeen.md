@@ -41,10 +41,9 @@ Hieronder vind je alle algemene regels waar elke speler zich aan dient te houden
     - Het zomaar laten ontploffen van een tankstation of voertuigen.
     - Combatloggen
     - Wegrijden / weglopen na een autocrash of met lekke banden
-    - Spammen in welke chat dan ook
-    - Meer dan 50 openstaande boetes hebben
 3. Wij gaan er vanuit dat de speler snapt wanneer iets onrealistisch is. Het staff-lid zal de uiteindelijke conclusie trekken.
-4. Dit zal dan ook bestraft worden met een sanctie uit artikel 2.
+4. Het hebben van meer dan 50 openstaande boetes is ook onrealistisch en dus niet toegestaan.
+5. Dit zal dan ook bestraft worden met een sanctie uit artikel 2.
 
 ### Artikel 6: Meta Gaming
 1. Alle informatie die buiten de roleplay wordt verkregen, mag niet gebruikt worden binnen de roleplay.
