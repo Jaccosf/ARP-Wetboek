@@ -4,10 +4,10 @@ Welkom op de website waar je alle regels kun vinden van Achterhoek-RP. Aan de li
 
 Mis je iets, of heb je ergens een vraag over? Maak dan een ticket aan in onze Discord.
 
-**LET OP:** Het wetboek kan t.a.t. gewijzigd worden!
+[Discord](https://achterhoek-rp.nl/discord){ .md-button .md-button--primary }
 
-**Discord:** [Klik hier](https://achterhoek-rp.nl/discord)
+[Website](https://www.achterhoek-rp.nl){ .md-button .md-button--primary }
 
-**Website:** [Klik hier](https://www.achterhoek-rp.nl)
+Zodra je de server op FiveM joint of de 🍔burger-rol in discord hebt ontvangen, ben je akkoord met deze regels.
 
-Zodra je de server op FiveM joint of de burger-rol in discord hebt ontvangen, ben je akkoord met deze regels.
+**N.B.:** Het wetboek kan t.a.t. gewijzigd worden!
