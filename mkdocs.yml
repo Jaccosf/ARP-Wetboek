@@ -40,6 +40,9 @@ plugins:
       locale: nl
       fallback_to_build_date: false
 
+markdown_extensions:
+  - attr_list
+  
 nav:
   - Home: index.md
   - Algemene regels: algemeen.md
